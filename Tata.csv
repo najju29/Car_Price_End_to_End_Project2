@@ -1,0 +1,362 @@
+year,selling_price,km_driven,fuel,seller_type,transmission,owner,Car_Company,Model_Name
+2014,240000,60000,Petrol,Individual,Manual,Second Owner,Tata,Indigo Grand Petrol
+2014,250000,100000,Petrol,Individual,Manual,First Owner,Tata,Indigo Grand Petrol
+2014,240000,60000,Petrol,Individual,Manual,Second Owner,Tata,Indigo Grand Petrol
+2014,250000,100000,Petrol,Individual,Manual,First Owner,Tata,Indigo Grand Petrol
+2018,525000,15000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XT
+2005,70000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica DLS
+2007,100000,39000,Diesel,Individual,Manual,First Owner,Tata,Indigo Classic Dicor
+2014,125000,166000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,Indica Vista Quadrajet LS
+2012,100000,50000,Petrol,Individual,Manual,Second Owner,Tata,Nano Lx BSIV
+2010,125000,81000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.4 TDI
+2011,120000,70000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2016,250000,120000,Diesel,Individual,Manual,First Owner,Tata,Bolt Quadrajet XE
+2011,150000,155500,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2013,72000,25000,Petrol,Individual,Manual,First Owner,Tata,Nano LX SE
+2018,430000,30000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XM
+2009,90000,120000,Diesel,Dealer,Manual,First Owner,Tata,Indica V2 2001-2011 DLS BSIII
+2011,120000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista TDI LS
+2015,300000,140000,Diesel,Dealer,Manual,First Owner,Tata,Zest Quadrajet 1.3 75PS XE
+2006,115999,100000,Diesel,Individual,Manual,Second Owner,Tata,Sumo GX TC 7 Str BSIII
+2002,100000,120000,Diesel,Individual,Manual,First Owner,Tata,Sumo SE Plus BSIII
+2018,360000,4000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2019,425000,19600,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2003,50000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLX
+2002,125000,40000,Petrol,Individual,Manual,First Owner,Tata,Indica LSI
+2013,55000,25000,Petrol,Individual,Manual,Fourth & Above Owner,Tata,Nano STD
+2014,185000,72000,CNG,Dealer,Manual,First Owner,Tata,Indigo CS Emax CNG GLX
+2015,400000,100000,Diesel,Individual,Manual,First Owner,Tata,Zest Quadrajet 1.3 XM
+2011,260000,97000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura Quadrajet BS IV
+2019,350000,15000,Petrol,Individual,Automatic,Second Owner,Tata,Tiago 1.2 Revotron XZA
+2016,1000000,70000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX
+2010,250000,120000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2019,575000,8000,Petrol,Individual,Manual,First Owner,Tata,Tiago NRG Petrol
+2011,75000,15000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2011,220000,80000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS Dicor
+2009,150000,164000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Terra 1.4 TDI
+2019,550000,10000,Petrol,Individual,Manual,First Owner,Tata,Tiago NRG Petrol
+2015,380000,17152,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2 XT
+2011,133000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LX
+2014,225000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo Grand Dicor
+2019,800000,60000,Diesel,Individual,Manual,First Owner,Tata,Nexon 1.5 Revotorq XZ
+2012,75000,29900,Petrol,Individual,Manual,First Owner,Tata,Nano Lx BSIV
+2017,1600000,3000,Diesel,Individual,Manual,First Owner,Tata,Hexa XT 4X4
+2012,185000,85000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet VX
+2010,100000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.4 TDI
+2013,360000,206500,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX
+2012,110000,80000,Diesel,Individual,Manual,First Owner,Tata,Venture EX
+2017,969999,30000,Diesel,Individual,Manual,First Owner,Tata,Hexa XM
+2013,58000,27974,Petrol,Individual,Manual,First Owner,Tata,Nano LX
+2014,400000,35000,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2 XT
+2007,55000,195000,Diesel,Individual,Manual,Third Owner,Tata,Indigo LS
+2010,220000,120000,Diesel,Individual,Manual,Second Owner,Tata,Sumo GX TC 8 Str
+2018,525000,10980,Petrol,Dealer,Automatic,First Owner,Tata,Tiago XZA AMT
+2009,68000,120000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2011,320000,100000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 GX 4x2
+2013,170000,60000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2011,120000,20000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2011,120000,20000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2016,285000,90000,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2T XE
+2009,250000,120000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x4
+2017,1200000,50000,Diesel,Individual,Automatic,First Owner,Tata,Hexa XTA
+2013,60000,40000,Petrol,Individual,Manual,First Owner,Tata,Nano LX
+2018,509999,5000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XM
+2011,130000,90000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2011,40000,19000,Petrol,Individual,Manual,First Owner,Tata,Nano Std
+2012,285000,74300,Diesel,Dealer,Manual,First Owner,Tata,Indica Vista Quadrajet 90 VX
+2010,75000,58850,Petrol,Dealer,Manual,First Owner,Tata,Nano Lx BSIV
+2017,1000000,50000,Diesel,Individual,Manual,First Owner,Tata,Hexa XM
+2014,250000,25000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista TDI LS
+2006,70000,60000,Petrol,Individual,Manual,Second Owner,Tata,Indica LSI
+2013,170000,60000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2011,120000,20000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2011,140000,60000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LX
+2011,120000,20000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2012,400000,80000,Diesel,Individual,Manual,Second Owner,Tata,Xenon XT EX 4X2
+2008,80000,200000,Petrol,Individual,Manual,First Owner,Tata,Indica GLS BS IV
+2006,55000,100000,Diesel,Individual,Manual,First Owner,Tata,Indica DLS
+2018,400000,54000,Petrol,Dealer,Manual,Second Owner,Tata,Zest Revotron 1.2T XMS
+2017,925000,26766,Diesel,Dealer,Manual,First Owner,Tata,Nexon 1.5 Revotorq XZ
+2016,509999,42000,Diesel,Individual,Manual,First Owner,Tata,Sumo Gold EX
+2005,100000,100000,Diesel,Individual,Manual,First Owner,Tata,Indica DLE
+2006,85000,300000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLS
+2009,130000,110000,Diesel,Individual,Manual,Third Owner,Tata,Indigo LX
+2010,99000,70000,Petrol,Individual,Manual,First Owner,Tata,Indica GLS BS IV
+2012,350000,65000,Diesel,Dealer,Manual,First Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2012,200000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aura Plus 1.3 Quadrajet
+2018,450000,8500,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XT
+2013,170000,60400,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 VX
+2012,75000,35000,Petrol,Individual,Manual,Second Owner,Tata,Nano Cx BSIV
+2011,60000,40000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2018,1085000,15000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX Varicor 400
+2012,175000,80000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista Quadrajet LX
+2010,170000,107500,Diesel,Dealer,Manual,First Owner,Tata,Indica Vista TDI LS
+2013,210000,135000,Diesel,Dealer,Manual,Second Owner,Tata,Indica Vista TDI LS
+2011,140000,90000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista Terra Quadrajet 1.3L
+2010,110000,110000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.3 Quadrajet
+2009,100000,20000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS
+2016,400000,88470,Diesel,Individual,Manual,First Owner,Tata,Zest Quadrajet 1.3 75PS XE
+2013,75000,25000,Petrol,Individual,Manual,Third Owner,Tata,Nano CX SE
+2009,185000,60000,Diesel,Individual,Manual,Third Owner,Tata,Manza Aura Quadrajet
+2004,80000,46000,Petrol,Individual,Manual,Second Owner,Tata,Indica LXI
+2013,250000,90000,Diesel,Individual,Manual,Second Owner,Tata,Sumo Gold EX
+2012,320000,120000,Diesel,Individual,Manual,Second Owner,Tata,Sumo Victa CX 7/9 Str BSII
+2007,85000,50000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2009,90000,120000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2006,55000,100000,Diesel,Individual,Manual,Second Owner,Tata,Indica DL
+2011,165000,100000,Diesel,Individual,Manual,Second Owner,Tata,Manza ELAN Quadrajet BS IV
+2010,100000,120000,Petrol,Individual,Manual,Second Owner,Tata,Indica Vista Aura 1.2 Safire
+2011,200000,28689,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet VX
+2014,495000,90000,Diesel,Individual,Manual,Second Owner,Tata,Aria Pure LX 4x2
+2006,50000,120000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,Indica DLS
+2012,190000,120000,Diesel,Individual,Manual,First Owner,Tata,Manza Aqua Quadrajet BS IV
+2017,1200000,16400,Diesel,Individual,Manual,First Owner,Tata,Hexa XT
+2010,180000,120000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2012,250999,35000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura Quadrajet BS IV
+2014,45000,7000,Petrol,Individual,Manual,Second Owner,Tata,Nano Cx BSIII
+2011,149000,10000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Quadrajet LX
+2011,160000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.3 Quadrajet
+2006,75000,100000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2006,100000,110000,Petrol,Individual,Manual,Second Owner,Tata,Indigo GLX
+2009,200000,100000,Petrol,Individual,Manual,First Owner,Tata,Indica GLS BS IV
+2010,150000,50000,Petrol,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Safire BS IV
+2012,160000,110000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS BSII
+2012,320000,80000,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
+2009,135000,90000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,Indica Vista Aura 1.3 Quadrajet
+2009,135000,90000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,Indica Vista Aura 1.3 Quadrajet
+2005,70000,120000,Diesel,Individual,Manual,First Owner,Tata,Indica DLS
+2010,97000,128000,Petrol,Individual,Manual,First Owner,Tata,Indica Vista Aqua 1.2 Safire BSIV
+2012,130000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2009,130000,120000,Diesel,Individual,Manual,First Owner,Tata,Sumo Victa EX 7/9 Str BSII
+2012,270000,80000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
+2015,350000,100000,Diesel,Individual,Manual,Second Owner,Tata,Zest Quadrajet 1.3 75PS XE
+2015,500000,120000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX
+2013,180000,200000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LX
+2013,150000,180000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista TDI LS
+2015,225000,68745,Diesel,Dealer,Manual,First Owner,Tata,Indigo CS LX (TDI) BS-III
+2011,211000,43128,Diesel,Dealer,Manual,First Owner,Tata,Indica Vista TDI LS
+2011,350000,170000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2006,45000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLE
+2011,140000,60000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LX
+2011,95000,115000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,Indigo CS LE (TDI) BS-III
+2007,199000,78771,Diesel,Dealer,Manual,Second Owner,Tata,New Safari 4X4
+2012,180000,155836,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Quadrajet BS IV
+2012,35000,35000,Petrol,Individual,Manual,Third Owner,Tata,Nano LX SE
+2008,105000,90000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS
+2013,185000,65000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista TDI LX
+2016,869999,80000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX Varicor 400
+2008,105000,90000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS
+2013,185000,65000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista TDI LX
+2012,150000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Quadrajet LS
+2017,750000,15000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus Dual Tone
+2016,869999,80000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX Varicor 400
+2008,65000,110000,Petrol,Individual,Manual,Third Owner,Tata,Indica GLS BS IV
+2019,1100000,40000,Diesel,Individual,Manual,First Owner,Tata,Hexa XT
+2009,150000,30000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2010,200000,50000,Petrol,Individual,Manual,First Owner,Tata,Manza Aura Safire
+2012,185000,40000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet VX
+2010,250000,80000,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2006,57000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica DLS
+2012,130000,90000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LX
+2014,550000,78322,Diesel,Individual,Manual,First Owner,Tata,Safari Storme EX
+2012,120000,80000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista Quadrajet LX
+2016,520000,25000,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2T XMS
+2013,430000,80000,Diesel,Individual,Manual,Third Owner,Tata,Safari Storme EX
+2019,1100000,40000,Diesel,Individual,Manual,First Owner,Tata,Hexa XT
+2019,1700000,10000,Diesel,Individual,Manual,First Owner,Tata,Harrier XZ BSIV
+2009,150000,30000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2010,200000,50000,Petrol,Individual,Manual,First Owner,Tata,Manza Aura Safire
+2017,1200000,50000,Diesel,Individual,Automatic,First Owner,Tata,Hexa XTA
+2014,200000,100000,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 LS
+2010,110000,77073,Petrol,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Safire BS IV
+2020,830000,10000,Petrol,Individual,Manual,First Owner,Tata,Altroz XZ
+2016,385000,38000,Diesel,Dealer,Manual,First Owner,Tata,Tiago 2019-2020 XE Diesel
+2016,381000,38000,Diesel,Dealer,Manual,First Owner,Tata,Tiago 1.05 Revotorq XE
+2016,380000,38000,Diesel,Dealer,Manual,First Owner,Tata,Tiago 1.05 Revotorq XE
+2019,1250000,24000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme EX
+2015,110000,45000,Petrol,Dealer,Manual,First Owner,Tata,Nano CX SE
+2014,291000,90000,Diesel,Individual,Manual,First Owner,Tata,Xenon XT EX 4X2
+2012,280000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Tata,New Safari Dicor EX 4X2 BS IV
+2015,300000,60000,Petrol,Individual,Manual,Second Owner,Tata,Zest Revotron 1.2T XE
+2015,73000,57000,Petrol,Individual,Manual,First Owner,Tata,Nano Twist XT
+2017,450000,35000,Diesel,Individual,Manual,First Owner,Tata,Tiago 1.05 Revotorq XT Option
+2011,75000,9528,Petrol,Dealer,Manual,First Owner,Tata,Nano Cx BSIV
+2018,450000,45000,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2T XE
+2013,175000,50300,Diesel,Individual,Manual,First Owner,Tata,Indigo CS eLX BS IV
+2011,150000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indigo CR4
+2011,195000,60000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista TDI LS
+2008,80000,150000,Diesel,Individual,Manual,Third Owner,Tata,Indigo TDI
+2009,100000,66778,Diesel,Individual,Manual,First Owner,Tata,Sumo LX
+2018,539000,10000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2012,150000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Quadrajet LS
+2016,300000,30000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XE
+2019,500000,10000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XM
+2010,100000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Terra 1.4 TDI
+2011,90000,54000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua 1.4 TDI
+2014,291000,90000,Diesel,Individual,Manual,First Owner,Tata,Xenon XT EX 4X2
+2013,300000,60000,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 LX
+2013,380000,100000,Diesel,Individual,Manual,First Owner,Tata,Safari DICOR 2.2 EX 4x2
+2018,570000,11200,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XM
+2010,250000,96000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LS
+2012,550000,142000,Diesel,Individual,Manual,First Owner,Tata,New Safari 4X4 EX
+2020,500000,5000,Petrol,Individual,Manual,First Owner,Tata,Altroz XE
+2010,75000,110000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2009,93000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Terra 1.4 TDI
+2018,459999,40000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XT
+2012,198000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.3 Quadrajet ABS BSIV
+2015,225000,68745,Diesel,Dealer,Manual,First Owner,Tata,Indigo CS LX (TDI) BS-III
+2013,182000,100000,Diesel,Individual,Manual,First Owner,Tata,Indigo TDI
+2010,100000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Terra 1.4 TDI
+2018,525000,10980,Petrol,Dealer,Automatic,First Owner,Tata,Tiago XZA AMT
+2012,295000,80000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Quadrajet BS IV
+2017,340000,60000,Diesel,Individual,Manual,First Owner,Tata,Bolt Quadrajet XE
+2019,715000,8000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus
+2019,670000,17000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XZ Option
+2006,75000,40000,Petrol,Individual,Manual,Second Owner,Tata,Indigo GLX
+2019,450000,12000,Petrol,Individual,Manual,First Owner,Tata,Tiago 2019-2020 XZ
+2013,182000,100000,Diesel,Individual,Manual,First Owner,Tata,Indigo TDI
+2019,425000,3000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XE
+2012,220000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LS
+2009,85000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.3 Quadrajet
+2012,450000,42655,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 VX 4x4
+2018,500000,30000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2009,130000,50000,Diesel,Individual,Manual,First Owner,Tata,Indigo LX Dicor
+2018,426000,15000,Petrol,Individual,Automatic,First Owner,Tata,Tiago 1.2 Revotron XTA
+2010,40000,90000,Petrol,Individual,Manual,First Owner,Tata,Nano Lx
+2013,200000,60000,Petrol,Individual,Manual,First Owner,Tata,Manza Aura Safire BS IV
+2008,80000,90000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2010,300000,250000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2017,434999,17563,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XZ Option
+2016,380000,15000,Petrol,Individual,Manual,First Owner,Tata,Zest Revotron 1.2T XE
+2012,130000,185000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Quadrajet VX
+2013,125000,125000,Diesel,Individual,Manual,First Owner,Tata,Indigo TDI
+2011,80000,62000,Petrol,Individual,Manual,Second Owner,Tata,Indigo GLS
+2009,35000,50000,Petrol,Individual,Manual,Third Owner,Tata,Nano Std BSII
+2011,125000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista TDI LX
+2013,450000,95000,Diesel,Dealer,Manual,First Owner,Tata,Safari Storme EX
+2011,229999,160000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Quadrajet LS
+2010,250000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aura 1.3 Quadrajet BSIV
+2008,150000,50000,Petrol,Individual,Manual,Third Owner,Tata,Indigo GLX
+2012,285000,74300,Diesel,Dealer,Manual,First Owner,Tata,Indica Vista Quadrajet 90 VX
+2010,75000,58850,Petrol,Dealer,Manual,First Owner,Tata,Nano Lx BSIV
+2012,150000,110000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LX
+2016,300000,90000,Petrol,Individual,Manual,Second Owner,Tata,Bolt Revotron XE
+2007,550000,80000,Petrol,Individual,Manual,Second Owner,Tata,New Safari 4X2
+2014,200000,100000,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 LS
+2009,68000,120000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2011,180000,80000,Diesel,Individual,Manual,Third Owner,Tata,Manza ELAN Quadrajet BS IV
+2009,150000,120000,Diesel,Individual,Manual,Third Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2009,145000,89255,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Terra TDI BSIII
+2013,275000,110000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet VX
+2008,110000,90000,Diesel,Individual,Manual,Third Owner,Tata,Indica Vista Aqua 1.4 TDI
+2010,150000,100000,Diesel,Individual,Manual,First Owner,Tata,Indigo TDI
+2009,204999,120000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2016,335000,41000,Petrol,Dealer,Manual,First Owner,Tata,Tiago XT
+2012,45000,35000,Petrol,Individual,Manual,Second Owner,Tata,Nano Lx BSIV
+2012,270000,80000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
+2019,539000,2417,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2012,200000,35000,Diesel,Individual,Manual,First Owner,Tata,Indigo TDI
+2010,350000,100000,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2010,160000,102000,Diesel,Individual,Manual,Second Owner,Tata,Indigo LS
+2012,95000,20778,Petrol,Dealer,Manual,First Owner,Tata,Nano LX SE
+2014,140000,44416,Petrol,Dealer,Manual,First Owner,Tata,Nano Twist XE
+2014,55000,40000,Petrol,Individual,Manual,First Owner,Tata,Nano CX
+2017,260000,50000,Diesel,Individual,Manual,First Owner,Tata,Tiago 1.05 Revotorq XM
+2016,250000,70000,Diesel,Individual,Manual,First Owner,Tata,Zest Quadrajet 1.3
+2008,80000,90000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2010,125000,81000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.4 TDI
+2011,120000,70000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua TDI BSIII
+2016,250000,120000,Diesel,Individual,Manual,First Owner,Tata,Bolt Quadrajet XE
+2011,220000,140000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Quadrajet BS IV
+2011,133000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LX
+2008,70000,60000,Petrol,Individual,Manual,First Owner,Tata,Indica GLS BS IV
+2013,211000,80000,Diesel,Individual,Manual,First Owner,Tata,Indigo Grand Dicor
+2019,800000,10000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus Dual Tone
+2008,300000,120000,Diesel,Individual,Manual,First Owner,Tata,New Safari 3L Dicor LX 4x2
+2015,82000,19000,Petrol,Individual,Manual,First Owner,Tata,Nano Twist XT
+2015,250000,120000,Petrol,Individual,Manual,Second Owner,Tata,Zest Revotron 1.2T XMS
+2008,70000,100000,Diesel,Individual,Manual,Third Owner,Tata,Indigo LX Dicor
+2012,150000,90000,Diesel,Individual,Manual,First Owner,Tata,Indigo LS
+2010,150000,70000,Diesel,Individual,Manual,Second Owner,Tata,Xenon XT EX 4X4
+2018,1085000,15000,Diesel,Individual,Manual,First Owner,Tata,Safari Storme VX Varicor 400
+2008,110000,42000,Petrol,Dealer,Manual,First Owner,Tata,Indigo GLE BSIII
+2008,130000,120000,Petrol,Individual,Manual,First Owner,Tata,Indigo GLS
+2008,220000,90000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2008,95000,120000,Petrol,Individual,Manual,Third Owner,Tata,Indica GLS BS IV
+2012,270000,60000,Diesel,Individual,Manual,First Owner,Tata,Manza Club Class Quadrajet90 EX
+2018,400000,35000,Diesel,Individual,Manual,First Owner,Tata,Tiago 1.05 Revotorq XZ Plus
+2015,100000,23800,Petrol,Individual,Manual,Second Owner,Tata,Nano Twist XE
+2019,1700000,10000,Diesel,Individual,Manual,First Owner,Tata,Harrier XZ BSIV
+2013,270000,70000,Diesel,Individual,Manual,Second Owner,Tata,Indigo TDI
+2010,110000,90000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.4 TDI
+2010,150000,80000,Diesel,Individual,Manual,Second Owner,Tata,Indigo CR4
+2010,70000,10000,Petrol,Individual,Manual,First Owner,Tata,Nano Cx BSIII
+2018,420000,80000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XT
+2019,800000,25000,Diesel,Individual,Manual,First Owner,Tata,Nexon 1.5 Revotorq XM
+2011,180000,66000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Aqua 1.3 Quadrajet BSIV
+2011,180000,80000,Diesel,Individual,Manual,Third Owner,Tata,Manza ELAN Quadrajet BS IV
+2011,65000,60000,Petrol,Individual,Manual,Second Owner,Tata,Nano Lx BSIII
+2010,200000,150000,Diesel,Individual,Manual,Second Owner,Tata,Manza Aura (ABS) Quadrajet BS IV
+2009,210000,75000,Diesel,Individual,Manual,First Owner,Tata,Spacio SA 6 Seater
+2017,370000,25000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XT
+2011,459999,76400,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2012,100000,200000,Diesel,Individual,Manual,Third Owner,Tata,Indigo LS
+2009,130000,50000,Diesel,Individual,Manual,First Owner,Tata,Indigo LX Dicor
+2012,300000,110000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LS
+2009,120000,80000,Petrol,Individual,Manual,Second Owner,Tata,Indica Vista Aura 1.2 Safire
+2010,85000,87000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Terra Quadrajet 1.3L BS IV
+2011,90000,80000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Terra 1.4 TDI
+2012,135000,158000,Diesel,Individual,Manual,Third Owner,Tata,Indigo CR4
+2018,360000,4000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XZ
+2017,300000,50000,Petrol,Individual,Manual,First Owner,Tata,Tiago 1.2 Revotron XE
+2010,210000,34500,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 VX 4x2
+2015,399000,55250,Diesel,Individual,Manual,First Owner,Tata,Sumo Gold EX BSIII
+2018,1280000,17000,Diesel,Individual,Manual,First Owner,Tata,Hexa XM
+2012,450000,97000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
+2007,60000,130000,Petrol,Individual,Manual,Second Owner,Tata,Indica GLS BS IV
+2012,200000,120000,Diesel,Individual,Manual,Second Owner,Tata,Indigo CR4
+2012,320000,140000,Diesel,Individual,Manual,Second Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2012,200000,90000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aura Plus 1.3 Quadrajet
+2011,300000,180000,Diesel,Individual,Manual,Third Owner,Tata,Winger Deluxe - Hi Roof (AC)
+2018,1350000,34000,Diesel,Individual,Automatic,First Owner,Tata,Hexa XTA
+2018,400000,54000,Petrol,Dealer,Manual,Second Owner,Tata,Zest Revotron 1.2T XMS
+2013,220000,100000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2013,220000,100000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2015,375000,30000,Petrol,Individual,Manual,First Owner,Tata,Bolt Revotron XM
+2010,90000,300000,Petrol,Individual,Manual,Third Owner,Tata,Indica GLS BS IV
+2018,775000,35000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus Dual Tone
+2016,500000,60000,Diesel,Individual,Manual,First Owner,Tata,Sumo Gold EX BSIII
+2012,360000,70000,Diesel,Individual,Manual,Second Owner,Tata,Aria Pleasure 4x2
+2011,180000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo CS eLS BS IV
+2010,165000,80000,Diesel,Individual,Manual,First Owner,Tata,Manza Aqua Quadrajet BS IV
+2010,75000,300000,Petrol,Individual,Manual,Third Owner,Tata,Indica GLS BS IV
+2014,240000,60000,Petrol,Individual,Manual,Second Owner,Tata,Indigo Grand Petrol
+2014,250000,100000,Petrol,Individual,Manual,First Owner,Tata,Indigo Grand Petrol
+2007,550000,80000,Petrol,Individual,Manual,Second Owner,Tata,New Safari 4X2
+2018,775000,35000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus Dual Tone
+2009,100000,120000,Diesel,Individual,Manual,Third Owner,Tata,Indigo TDI
+2012,120000,140000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LS
+2017,750000,15000,Petrol,Individual,Manual,First Owner,Tata,Nexon 1.2 Revotron XZ Plus Dual Tone
+2013,200000,60000,Petrol,Individual,Manual,First Owner,Tata,Manza Aura Safire BS IV
+2020,426000,1000,Diesel,Individual,Manual,First Owner,Tata,Harrier XE
+2017,260000,50000,Diesel,Individual,Manual,First Owner,Tata,Tiago 1.05 Revotorq XM
+2012,120000,140000,Diesel,Individual,Manual,First Owner,Tata,Indica Vista Quadrajet LS
+2012,320000,80000,Diesel,Individual,Manual,First Owner,Tata,New Safari DICOR 2.2 GX 4x2 BS IV
+2010,97000,128000,Petrol,Individual,Manual,First Owner,Tata,Indica Vista Aqua 1.2 Safire BSIV
+2012,130000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo CR4
+2012,350000,65000,Diesel,Dealer,Manual,First Owner,Tata,New Safari DICOR 2.2 EX 4x2
+2005,51111,140000,Petrol,Individual,Manual,Third Owner,Tata,Indica LSI
+2014,45000,7000,Petrol,Individual,Manual,Second Owner,Tata,Nano Cx BSIII
+2012,125000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo LX
+2019,1400000,33000,Diesel,Individual,Manual,First Owner,Tata,Harrier XZ BSIV
+2014,225000,120000,Diesel,Individual,Manual,First Owner,Tata,Indigo Grand Dicor
+2018,570000,5000,Petrol,Individual,Manual,First Owner,Tata,Tigor 1.2 Revotron XZ Option
+2015,350000,50000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista TDI LX
+2010,75000,100000,Diesel,Individual,Manual,Third Owner,Tata,Indica V2 DLS BSII
+2014,215000,80000,Diesel,Individual,Manual,Third Owner,Tata,Indigo Classic Dicor
+2006,115999,100000,Diesel,Individual,Manual,Second Owner,Tata,Sumo GX TC 7 Str BSIII
+2006,115999,100000,Diesel,Individual,Manual,Second Owner,Tata,Sumo GX TC 7 Str BSIII
+2015,300000,110000,Diesel,Individual,Manual,Second Owner,Tata,Indigo CS LS (TDI) BS-III
+2015,190000,60000,Petrol,Individual,Manual,Second Owner,Tata,Nano XM
+2010,160000,60000,Petrol,Individual,Manual,Second Owner,Tata,Manza Aura Safire BS IV
+2010,150000,130000,Diesel,Individual,Manual,Second Owner,Tata,Indica Vista Aqua 1.4 TDI

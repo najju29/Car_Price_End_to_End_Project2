@@ -1,0 +1,1281 @@
+year,selling_price,km_driven,fuel,seller_type,transmission,owner,Car_Company,Model_Name
+2007,60000,70000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2007,135000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2007,140000,125000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX BSIII
+2017,365000,78000,CNG,Individual,Manual,First Owner,Maruti,Celerio Green VXI
+2007,60000,70000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2007,135000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2007,140000,125000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX BSIII
+2017,365000,78000,CNG,Individual,Manual,First Owner,Maruti,Celerio Green VXI
+2015,585000,24000,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz VXi Plus
+2018,975000,4500,Diesel,Dealer,Automatic,First Owner,Maruti,Vitara Brezza ZDi Plus AMT
+2014,290000,64000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV with ABS
+2012,275000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2006,100000,80000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2017,725000,18500,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI Optional
+2018,401000,10200,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2018,310000,28000,Petrol,Dealer,Manual,First Owner,Maruti,Omni Maruti Omni MPI STD BSIII 5-STR W/ IMMOBILISER
+2016,665000,46000,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDi BSIV
+2012,160000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,300000,80000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2009,151000,66764,Petrol,Dealer,Manual,Second Owner,Maruti,Alto LXi
+2009,140000,100000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2006,130000,110000,Petrol,Individual,Manual,Third Owner,Maruti,Swift 1.3 VXi
+2018,750000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz 1.3 Delta
+2008,175000,29173,Petrol,Dealer,Manual,First Owner,Maruti,SX4 Zxi BSIII
+2010,100000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LXI Minor
+2011,250000,110000,Petrol,Individual,Manual,Third Owner,Maruti,SX4 ZXI MT BSIV
+2014,434000,79350,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2007,120000,90000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIII
+2014,500000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI
+2004,95000,50000,Petrol,Individual,Manual,First Owner,Maruti,Zen LX
+2018,550000,20000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Delta 1.2
+2007,100000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Swift Vdi BSIII
+2016,800000,70000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS VDI
+1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 Std
+2005,100000,30000,Petrol,Individual,Manual,First Owner,Maruti,800 AC BSIII
+2015,525000,100000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz VDi Plus
+2018,800000,35000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza VDi
+2014,210000,90000,LPG,Individual,Manual,First Owner,Maruti,Wagon R DUO LPG
+2020,240000,120000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI
+2017,550000,60000,Petrol,Individual,Manual,First Owner,Maruti,Swift VVT ZXI
+2015,400000,100000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI BSIV
+2012,175000,80000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi
+2019,810000,15000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI Plus
+2007,95000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2020,282000,40000,CNG,Individual,Manual,First Owner,Maruti,Alto K10 LXI CNG
+2004,80000,60000,Petrol,Individual,Manual,Second Owner,Maruti,800 Std BSII
+2018,380000,22155,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2018,650000,70000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Delta
+2009,150000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2003,75000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Zen D
+2017,390000,24000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2007,175000,78380,Petrol,Individual,Manual,First Owner,Maruti,SX4 Zxi with Leather BSIII
+2009,250000,150000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDi
+2006,140000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Esteem Vxi - BSIII
+2017,600000,80362,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2016,685000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz ZDi SHVS
+2016,450000,115962,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS ZDI
+2017,800000,40000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Facelift
+2006,52000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2009,80000,90000,LPG,Individual,Manual,Second Owner,Maruti,Omni LPG CARGO BSIII W IMMOBILISER
+2012,140000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2012,285000,80000,Diesel,Individual,Manual,Second Owner,Maruti,SX4 Celebration Diesel
+2008,125000,80000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi BSIII
+2008,225000,60000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Zxi with Leather BSIII
+2013,170000,70000,Petrol,Individual,Manual,First Owner,Maruti,800 Std
+2018,200000,10000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2017,625000,52000,Petrol,Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2017,880000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS ZDI
+2002,65000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2017,685000,72000,Diesel,Dealer,Manual,First Owner,Maruti,Vitara Brezza LDi Option
+2017,1000000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS ZDI Plus
+2017,450000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift ZDi BSIV
+2014,600000,20000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI
+2007,100000,195000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2010,120000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2011,160000,155000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX BS IV
+2010,100000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2017,282000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2013,350000,40000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI ABS
+2013,110000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2012,395000,49000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire 1.2 Vxi BSIV
+2014,315000,41000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI
+2019,700000,16000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha
+2015,500000,10000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Sigma 1.2
+2005,80000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2009,180000,46730,Petrol,Individual,Manual,First Owner,Maruti,A-Star Vxi
+2002,60000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXi BSII
+2017,1000000,40000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS ZDI Plus
+2019,800000,30000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2018,800000,25000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2008,250000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Vdi BSIII
+2006,80000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Baleno Vxi
+2014,300000,35000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2015,490000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2017,720000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2017,550000,38000,Petrol,Dealer,Manual,First Owner,Maruti,Swift ZXi BSIV
+2013,335000,80000,Diesel,Dealer,Manual,First Owner,Maruti,Ritz VDi
+2012,229999,75000,CNG,Dealer,Manual,First Owner,Maruti,Eeco 5 STR With AC Plus HTR CNG
+2014,225000,43000,Petrol,Dealer,Manual,First Owner,Maruti,Estilo LXI
+2007,250000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Swift VXI with ABS
+2014,470000,163000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2018,300000,25000,Petrol,Individual,Automatic,First Owner,Maruti,Alto K10 VXI AGS Optional
+2011,145000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2007,100000,90000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIII
+2014,400000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2000,60000,40000,Petrol,Individual,Manual,Third Owner,Maruti,800 AC
+2013,400000,110000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga VDI
+2017,400000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift VVT VXI
+2010,175000,52047,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo VXI BSIV
+2018,800000,50000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi
+2011,250000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Swift VXI BSIII
+2019,600000,10000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI BSIV
+2017,600000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2016,130000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2006,90000,62009,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2007,95000,80000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2007,70000,180000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2007,105000,60000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2004,80000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R LXI
+2016,300000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2009,250000,70000,Petrol,Individual,Manual,First Owner,Maruti,Swift Glam
+2012,215000,80000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDI
+2011,150000,40000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2018,850000,10000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
+2004,130000,46000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI
+2018,250000,120000,Petrol,Individual,Manual,First Owner,Maruti,Omni E MPI STD BS IV
+2006,65000,124439,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2006,120000,77000,Petrol,Individual,Manual,Second Owner,Maruti,Zen VXI
+2014,240000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,320000,80000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI
+2018,310000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2018,420000,24000,Petrol,Individual,Automatic,First Owner,Maruti,Wagon R AMT VXI
+2016,550000,78000,Diesel,Individual,Manual,Third Owner,Maruti,Ertiga SHVS VDI
+2001,43000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSII
+2018,250000,20000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2018,940000,20000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
+2015,625000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2005,110000,80000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2009,140000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2005,90000,65000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI BSIII
+2009,275000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Ldi BSIV
+2015,275000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI Airbag
+2012,352000,109000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2012,150000,90000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2010,300000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2015,500000,80000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga BSIV ZXI
+2010,310000,100000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Vdi BSIII
+2009,300000,217871,Diesel,Dealer,Manual,First Owner,Maruti,Swift Ldi BSIII
+2013,280000,90000,Diesel,Individual,Manual,Third Owner,Maruti,Ritz LDi
+2019,556000,24000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2013,365000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2007,225000,50000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2011,135000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2007,140000,49000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI Minor
+2016,665000,560000,Diesel,Dealer,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Delta
+2015,565000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDi Option SHVS
+2013,425000,61083,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2016,450000,39415,Petrol,Trustmark Dealer,Automatic,Second Owner,Maruti,Celerio VXI AMT BSIV
+2016,770000,64672,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,114999,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+1995,95000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Gypsy E MG410W ST
+2014,229999,11451,Petrol,Individual,Manual,First Owner,Maruti,Omni E MPI STD BS IV
+2018,600000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2019,380000,5000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 5 Seater Standard BSIV
+2006,80000,66508,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.3 VXi
+2008,140000,90000,Petrol,Individual,Manual,Third Owner,Maruti,Zen Estilo LXI BSIII
+2017,710000,8000,Petrol,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT ZXI Plus BS IV
+2016,270000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2009,110000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2018,540000,17500,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2019,925000,11000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz Zeta BSIV
+2011,135000,90000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+2012,180000,120000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2015,138000,120000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Alto K10 LXI
+2015,190000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2009,300000,15000,Petrol,Individual,Manual,First Owner,Maruti,Ritz LXI
+2018,195000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2018,183000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2007,95000,80000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo 1.1 VXI BSIII
+2013,250000,38000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX Minor
+2013,250000,38000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX Minor
+2018,600000,18000,Petrol,Individual,Automatic,First Owner,Maruti,Swift AMT VXI
+2011,114999,60000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2009,150000,53000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2016,299000,50000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz LDi
+2017,415000,32670,Petrol,Dealer,Automatic,First Owner,Maruti,Celerio VXI AT
+2013,525000,56228,CNG,Dealer,Manual,First Owner,Maruti,Ertiga VXI CNG
+2016,699000,39503,Diesel,Dealer,Manual,First Owner,Maruti,Vitara Brezza VDi
+2014,665000,59110,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga ZDI
+2014,299000,54565,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R Stingray LXI
+2019,500000,20000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2010,140000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2013,325000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2008,110000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2017,229999,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2006,165000,132000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2015,550000,69782,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz VXi
+2003,98000,54000,Petrol,Individual,Manual,First Owner,Maruti,800 Std
+2015,490000,59385,Diesel,Dealer,Manual,First Owner,Maruti,Swift LDI BSIV
+2013,330000,55425,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2017,750000,55545,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDI SHVS
+2019,470000,8000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXI
+2014,180000,56207,Petrol,Dealer,Manual,Second Owner,Maruti,Alto 800 LXI
+2006,80000,70000,Petrol,Individual,Manual,First Owner,Maruti,Zen LXI
+2019,300000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2012,450000,46000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2018,550000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire LDI
+2013,400000,35000,Petrol,Individual,Manual,First Owner,Maruti,SX4 Vxi BSIV
+2017,450000,50000,Petrol,Individual,Automatic,First Owner,Maruti,Celerio VXI AT
+2011,220000,90000,Diesel,Individual,Manual,Third Owner,Maruti,SX4 ZDI
+2014,390000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2012,300000,100000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2014,575000,90000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI BSIV
+2014,300000,75000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R Stingray VXI
+2017,500000,40000,Petrol,Individual,Automatic,First Owner,Maruti,Ciaz 1.4 AT Zeta
+2015,475000,24600,Petrol,Dealer,Manual,First Owner,Maruti,Swift 1.3 VXI ABS
+2011,260000,28481,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2009,180000,30375,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2017,611000,34400,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,300000,28942,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R AMT VXI
+2014,500000,25000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI
+2017,150000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2012,480000,120000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Ertiga ZDI
+2017,370000,82000,Petrol,Individual,Automatic,First Owner,Maruti,Celerio ZXI Optional AMT BSIV
+2012,170000,97000,CNG,Individual,Manual,Second Owner,Maruti,Alto 800 CNG LXI
+2009,250000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Swift Dzire VXi
+2014,500000,35000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI
+2015,400000,90000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire VXI
+2018,200000,10000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+1999,85000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXI
+2018,615000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire VXI 1.2 BS IV
+2012,400000,60000,Diesel,Individual,Manual,Second Owner,Maruti,SX4 ZDI Leather
+2017,500000,9161,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Alpha BSIV
+2017,425000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire LDI
+2007,100000,80000,Petrol,Individual,Manual,Third Owner,Maruti,Zen Estilo LXI BSIII
+2014,390000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDI
+2017,160000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2016,150000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2011,285000,50000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI
+2012,155000,19077,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2009,140000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2016,610000,100000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2010,222000,70000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2015,240000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,425000,8352,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2017,525000,9745,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R VXI AMT1.2BSIV
+2016,550000,54000,Diesel,Dealer,Manual,First Owner,Maruti,Swift DDiS LDI
+2019,350000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2015,475000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2018,500000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2019,350000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI Airbag
+2017,320000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2018,750000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2015,716000,100000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga ZDI
+2015,675000,66000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz ZXi Plus
+2014,210000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2018,725000,26350,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza VDi Option
+2009,300000,15000,Petrol,Individual,Manual,First Owner,Maruti,Ritz LXI
+2007,100000,52000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2018,380000,22155,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2018,650000,70000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Delta
+2009,150000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2017,585000,43608,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Delta 1.2
+2018,825000,11212,Petrol,Trustmark Dealer,Automatic,First Owner,Maruti,Baleno Alpha CVT
+2016,725000,49217,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Zeta
+2011,375000,190000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDi
+2018,270000,20000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2012,555000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga ZDI
+2014,250000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI Airbag
+2011,175000,70000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXI
+2018,950000,15000,Diesel,Individual,Automatic,First Owner,Maruti,Vitara Brezza ZDi Plus AMT Dual Tone
+2019,340000,50000,Petrol,Individual,Manual,First Owner,Maruti,Celerio LXI MT BSIV
+2016,245000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2008,140000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo Sports
+2019,1100000,30000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga ZDI Plus
+2017,835000,14000,Diesel,Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2015,480000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2016,120000,120000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2006,75000,80000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi
+2018,1015000,20000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2016,525000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+1999,60000,35000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem VX
+2010,180000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2015,285000,46000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2008,91200,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2013,250000,71000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2009,200000,110000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Swift Dzire VXi
+2013,250000,71000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2017,260000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2012,220000,90000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Celebration Petrol
+2018,285000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2016,625000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz ZXi
+2014,395000,52000,Petrol,Dealer,Manual,Second Owner,Maruti,Swift Dzire 1.2 Vxi BSIV
+2014,635000,13250,Petrol,Dealer,Manual,First Owner,Maruti,Ertiga ZXI
+2011,180000,36000,Petrol,Dealer,Manual,First Owner,Maruti,Alto LX
+2015,484999,73000,Diesel,Dealer,Manual,Second Owner,Maruti,Swift ZDI Plus
+2004,110000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2006,150000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
+2011,215000,90000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Swift Dzire Vdi BSIV
+2004,155000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
+2006,200000,45000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2005,90000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXI
+2007,80000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2012,250000,120000,Diesel,Individual,Manual,First Owner,Maruti,SX4 Celebration Diesel
+2009,150000,90246,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi
+2008,110000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2010,150000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2000,165000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Gypsy King Hard Top
+2013,390000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2014,204999,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2020,700000,1100,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta
+2017,455000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Deca
+2014,200000,107143,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2017,450000,15000,Petrol,Individual,Automatic,First Owner,Maruti,Ignis 1.2 AMT Delta BSIV
+2016,819999,85000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
+2014,351000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.2 DLX
+2008,250000,82000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDi
+2008,120000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo 1.1 VXI BSIII
+2009,180000,70000,Petrol,Individual,Manual,Third Owner,Maruti,A-Star Vxi
+2018,550000,25000,Petrol,Individual,Automatic,First Owner,Maruti,Baleno Delta Automatic
+2012,200000,90000,Petrol,Individual,Manual,Third Owner,Maruti,Alto 800 LXI
+2011,151000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2018,780000,50000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza VDi
+2007,90000,43826,Petrol,Dealer,Manual,Second Owner,Maruti,Alto LXi
+2007,195000,112880,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
+2009,250000,80659,Petrol,Dealer,Manual,First Owner,Maruti,Swift Dzire VXi
+2009,250000,806599,Petrol,Dealer,Manual,First Owner,Maruti,Swift VXI BSIII
+2010,260000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Minor ABS
+2008,150000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Omni BSIII 8-STR W/ IMMOBILISER
+2006,85000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem Vxi - BSIII
+2015,280000,15000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2006,75000,96000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LX
+2018,500000,12000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Zeta BSIV
+2015,395000,30500,Petrol,Dealer,Automatic,Second Owner,Maruti,Celerio VXI AT
+2014,300000,190621,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire Tour LDI
+2006,78000,64700,Petrol,Individual,Manual,First Owner,Maruti,800 Std MPFi
+2002,65000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2020,350000,1000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2014,550000,90000,Diesel,Dealer,Manual,Second Owner,Maruti,Ciaz ZDi
+2007,110000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Omni E 8 Str STD
+2007,135000,74183,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo LX BSIII
+2014,160000,90000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2013,340000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2012,110000,80000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2013,240000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LX Minor
+2015,275000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI Optional
+2008,75000,120000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX BSIII
+2007,85000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2020,619000,1500,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2019,925000,50000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga VDI
+2013,400000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2018,275000,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2015,375000,70000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire LXI
+2015,229999,100000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI BS IV with ABS
+2010,110000,88000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2017,600000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,120000,76000,Petrol,Individual,Manual,Second Owner,Maruti,A-Star Vxi
+2012,220000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2001,40000,30000,Petrol,Individual,Manual,First Owner,Maruti,800 EX
+2017,610000,40000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2012,220000,80000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R LXI LPG BSIV
+2005,125000,34000,Petrol,Dealer,Manual,First Owner,Maruti,Zen LXi - BS III
+2008,125000,102000,Petrol,Dealer,Manual,First Owner,Maruti,Alto LXi BSIII
+2011,170000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 2010-2014 VXI
+2003,70000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
+2007,100000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,450000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI
+2015,530000,100000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2007,100000,143000,Petrol,Individual,Manual,Third Owner,Maruti,Zen Estilo 1.1 LXI BSIII
+2019,475000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire ZDI
+2014,475000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire ZDI
+2015,660000,97000,Diesel,Individual,Manual,Second Owner,Maruti,Ciaz VDi Plus
+2005,70000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem Lxi
+2014,350000,133000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2016,400000,25000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2015,130000,70000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2016,210000,52000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2007,75000,90000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSIII
+2010,90000,50000,Petrol,Individual,Manual,Third Owner,Maruti,Zen Estilo LX BSIV
+2016,600000,80000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2014,370000,57000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI BSIV
+2000,50000,60000,Petrol,Individual,Manual,First Owner,Maruti,800 DX
+2017,800000,30600,Petrol,Individual,Automatic,First Owner,Maruti,Ertiga BSIV VXI AT
+2013,250000,87000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2007,140000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo VXI BSIII
+2016,675000,60000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2011,300000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire VXi
+2018,600000,2000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Delta 1.2
+2017,325000,15000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2009,130000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LX BSIII
+2002,80000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2008,120000,40000,Petrol,Individual,Manual,First Owner,Maruti,A-Star Lxi
+2009,110000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2010,280000,149500,Diesel,Individual,Manual,Third Owner,Maruti,Swift Ldi BSIV
+2005,120000,20000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSIII
+2018,395000,20000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2014,150000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Omni MPI STD BSIV
+2007,163000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Baleno Vxi
+2012,180000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,400000,170000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2015,419000,170000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDI Optional
+2014,315000,41000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI
+2019,700000,16000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha
+2015,500000,10000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Sigma 1.2
+2016,360000,33000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI
+2010,210000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi BSIII
+2014,220000,66000,Petrol,Dealer,Manual,First Owner,Maruti,Alto K10 LXI
+2016,575000,50000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2016,260000,45000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2008,180000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi BSIII
+2019,280000,25880,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2009,300000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDi
+2014,200999,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 LXI
+2009,110000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2008,300000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2011,180000,90000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2011,150000,70000,Petrol,Individual,Manual,Second Owner,Maruti,A-Star Vxi
+2018,380000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI Airbag
+2014,110000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2017,180000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LX
+2017,509000,60000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Delta 1.2
+2016,650000,80000,Diesel,Individual,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Zeta
+2015,450000,70000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI BSIV
+2006,105000,100000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2009,250000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Swift ZXI ABS
+2008,69000,100000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2007,90000,90000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo VXI BSIII
+2020,250000,1100,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Alto K10 LX
+2011,256000,70000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI
+2000,50000,88500,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R VX
+2009,199000,52536,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2010,110000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2019,450000,1950,Petrol,Individual,Manual,First Owner,Maruti,S-Presso VXI Plus
+2005,85000,118400,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,750000,32077,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Vitara Brezza VDi
+2015,415000,28217,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift LXI Option
+2016,640000,72787,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Ciaz ZDi Plus
+2017,780000,31063,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ciaz 1.4 Alpha
+2007,75000,54000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
+2009,130000,120000,Petrol,Individual,Automatic,Second Owner,Maruti,SX4 ZXI AT
+2019,550000,60000,Petrol,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT ZXI
+2010,320000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Swift VDI BSIV
+2017,350000,48000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI BS IV
+2005,100000,20000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem Vxi
+2017,350000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2005,80000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
+2007,120000,81366,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo 1.1 LXI BSIII
+2006,95000,110000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Vxi - BSIII
+2017,250000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2012,368000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire 1.2 Vxi BSIV
+2012,368000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire 1.2 Vxi BSIV
+2012,180000,60000,LPG,Individual,Manual,First Owner,Maruti,Wagon R LXI DUO BS IV
+2007,75000,54000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
+2005,160000,67000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2017,500000,40000,Diesel,Individual,Manual,First Owner,Maruti,Swift LDI Optional
+2005,70000,80000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI
+2015,430000,73000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire LDI
+2011,260000,90000,Diesel,Individual,Manual,Third Owner,Maruti,SX4 VDI
+2013,370000,80000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI
+2008,70000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2012,160000,70000,CNG,Individual,Manual,Second Owner,Maruti,Eeco 5 STR With AC Plus HTR CNG
+2010,160000,36000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2016,760000,49000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS ZDI Plus
+1998,50000,35000,LPG,Individual,Manual,Second Owner,Maruti,Omni 5 Str STD LPG
+2018,680000,20000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,85000,50000,LPG,Individual,Manual,Second Owner,Maruti,800 DUO AC LPG
+2016,500000,60000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI BSIV
+2017,600000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI Optional
+2015,400000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire VXI
+2001,45000,72539,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSII
+2017,641000,25000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2015,650000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2018,200000,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2015,320000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,125000,50000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 AC
+2015,800000,135000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2017,875000,40000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
+2014,580000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2011,350000,133000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Ldi BSIV
+2010,225000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 2010-2014 VXI
+2010,250000,70000,Petrol,Individual,Manual,First Owner,Maruti,SX4 Vxi BSIV
+2012,175000,20000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 LXI
+2018,590000,26350,Diesel,Dealer,Manual,First Owner,Maruti,Ignis 1.3 Delta
+2017,375000,27289,Petrol,Dealer,Automatic,First Owner,Maruti,Alto K10 VXI AGS
+2013,525000,37000,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2008,221000,35008,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2014,325000,39093,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2004,70000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
+2012,190000,80000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI
+2013,213000,80000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2017,715000,25000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
+2017,715000,25000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
+2016,565000,47000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2010,325000,79357,Diesel,Dealer,Manual,First Owner,Maruti,Swift Vdi BSIII
+2007,135000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2009,155000,60000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R LXI DUO BSIII
+2017,700000,120000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS LDI Option
+2013,210000,42000,Petrol,Individual,Manual,Third Owner,Maruti,Alto 800 LXI
+2012,600000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Ertiga VDI
+2011,220000,59000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXi BSII
+2009,250000,200000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Swift Vdi BSIII
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,150000,120000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2012,450000,33000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDi
+2016,500000,38000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Deca
+2012,260000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+2018,690000,40000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2006,160000,63230,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2005,100000,100000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI
+2016,360000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Optional
+2015,220000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.2 DLX
+2017,178000,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2014,300000,35000,Petrol,Individual,Manual,First Owner,Maruti,Ritz VXi
+2012,450000,33000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDi
+2016,500000,38000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Deca
+2012,260000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+2018,690000,40000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2013,170000,70000,Petrol,Individual,Manual,First Owner,Maruti,800 Std
+2006,160000,63230,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2006,90000,40000,Petrol,Individual,Manual,Second Owner,Maruti,800 Std BSII
+2005,100000,100000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI
+2018,700000,25000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza LDi
+2008,111000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift Ldi BSIII
+2012,250000,140000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDi
+2015,455000,92621,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2019,650000,5000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2019,725000,22000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
+2007,100000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2010,148000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2011,254999,70000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire VXi
+2013,360000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire ZXI
+2006,95000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2000,60000,50000,Petrol,Individual,Manual,First Owner,Maruti,Zen LX
+2005,125000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI BSIII
+2002,100000,80000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Alto LXi BSII
+2010,130000,70000,Petrol,Individual,Manual,Second Owner,Maruti,A-Star Vxi
+2003,60000,35000,Petrol,Individual,Manual,First Owner,Maruti,800 DX
+2008,125000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi BSIII
+2008,125000,152000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R LXI DUO BSIII
+1998,69000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXI
+2019,630000,40000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2014,340000,15000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2014,480000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI
+2018,550000,8000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Delta 1.2
+2011,250000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2018,700000,38217,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2011,200000,120000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2017,350000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2014,204999,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2019,500000,15000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Delta BSIV
+2010,148000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2016,284000,40000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2007,80000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI Minor
+2007,125000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2014,458000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2018,300000,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2008,95000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2018,850000,50000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2009,150000,70000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2019,300000,120000,CNG,Individual,Manual,First Owner,Maruti,Alto 800 CNG LXI Optional
+2016,275000,160000,Petrol,Individual,Manual,First Owner,Maruti,Ritz LXi
+2018,300000,16584,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2010,221000,51000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2015,250999,35000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2017,751000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz ZDi Plus
+2016,245000,68000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2013,370000,90000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2013,92800,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2013,92800,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2013,170000,35000,Petrol,Individual,Manual,First Owner,Maruti,Omni 8 Seater BSIV
+2019,295000,10000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2003,60000,5000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
+2006,52000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2009,80000,90000,LPG,Individual,Manual,Second Owner,Maruti,Omni LPG CARGO BSIII W IMMOBILISER
+2012,140000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2018,650000,15000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Delta 1.3
+2015,400000,87000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI BSIV
+2012,300000,30000,Petrol,Individual,Automatic,Second Owner,Maruti,Wagon R AX
+2012,450000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2019,580000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2012,310000,69069,Petrol,Dealer,Manual,First Owner,Maruti,SX4 ZXI MT BSIV
+2014,300000,59059,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R Stingray VXI
+2018,655000,25000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI 1.2 BS IV
+2016,350000,30000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2008,263000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDi BSIII W/ ABS
+2012,250000,90000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2016,509999,40000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI Optional
+2011,280000,33000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo VXI BSIV
+2010,180000,40000,Petrol,Individual,Manual,First Owner,Maruti,A-Star Vxi
+2010,222000,70000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2015,240000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2009,175000,80000,Diesel,Individual,Manual,Third Owner,Maruti,Ritz VDi
+2017,215000,34000,Petrol,Dealer,Manual,First Owner,Maruti,Omni E MPI STD BS IV
+2020,550000,90000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga 1.5 VDI
+2015,217000,45000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.2 DLX
+2011,290000,130000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI BSIV
+2014,175000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 Base
+2016,380000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz LDi
+2015,320000,74820,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2015,370000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2014,425000,150000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,390000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2016,450000,39415,Petrol,Trustmark Dealer,Automatic,Second Owner,Maruti,Celerio VXI AMT BSIV
+2016,770000,64672,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2017,420000,50000,Petrol,Individual,Manual,First Owner,Maruti,Celerio ZXI
+2001,85000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Omni E 8 Str STD
+2012,200000,90000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2006,90000,40000,Petrol,Individual,Manual,Second Owner,Maruti,800 Std BSII
+2011,200000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+2004,105000,79000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LX
+2004,70000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LXI
+2011,175000,70000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXI
+2018,950000,15000,Diesel,Individual,Automatic,First Owner,Maruti,Vitara Brezza ZDi Plus AMT Dual Tone
+2019,550000,51000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2008,85000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2019,340000,50000,Petrol,Individual,Manual,First Owner,Maruti,Celerio LXI MT BSIV
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,650000,70000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2011,150000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2012,250000,8000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 Base
+2005,56000,23000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
+2019,425000,3700,Petrol,Individual,Manual,First Owner,Maruti,Celerio ZXI MT BSIV
+2014,300000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,275000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2011,175000,70000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXI
+2018,950000,15000,Diesel,Individual,Automatic,First Owner,Maruti,Vitara Brezza ZDi Plus AMT Dual Tone
+2019,340000,50000,Petrol,Individual,Manual,First Owner,Maruti,Celerio LXI MT BSIV
+2016,245000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2008,140000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo Sports
+2019,1100000,30000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga ZDI Plus
+2013,370000,90000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2013,92800,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2013,92800,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+1998,65000,60000,Petrol,Dealer,Manual,Third Owner,Maruti,Omni 5 Str STD
+2015,650000,58000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,350000,40000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LX BS IV
+2005,75000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2015,238000,70000,Petrol,Dealer,Manual,First Owner,Maruti,Omni 8 Seater BSII
+2018,925000,22000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Alpha
+2018,925000,20000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Alpha
+2010,175000,64000,Petrol,Dealer,Manual,First Owner,Maruti,Alto K10 LXI
+2015,325000,80000,Diesel,Individual,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Delta
+2018,700000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI Plus
+2019,490000,20000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio ZXI
+2013,225000,47000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2018,305000,35000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2010,240000,50000,LPG,Dealer,Manual,First Owner,Maruti,Wagon R Duo Lxi
+2015,700000,55000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2018,288000,20000,Petrol,Dealer,Manual,First Owner,Maruti,Omni E MPI STD BS IV
+2017,430000,93000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio VXI
+2014,325000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Eeco Smiles 5 Seater AC
+2016,630000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,250000,62000,Petrol,Dealer,Manual,Second Owner,Maruti,Swift 1.3 VXi
+2012,350000,55000,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDi
+2016,240000,5800,Petrol,Individual,Manual,Second Owner,Maruti,Omni E MPI STD BS IV
+2018,600000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI Plus
+2018,750000,20000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2007,90000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,350000,65000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R Stingray VXI
+2014,300000,82000,Petrol,Dealer,Manual,Second Owner,Maruti,Celerio VXI
+2006,160000,95149,Petrol,Dealer,Manual,Second Owner,Maruti,Swift VXI BSIII
+2010,265000,42000,Petrol,Individual,Manual,First Owner,Maruti,Ritz VXi
+2009,140000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2016,610000,100000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2016,595000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2015,320000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 VXI
+2009,130000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2009,150000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDi
+2011,150000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire LXi
+2007,100000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2004,30000,60000,Petrol,Individual,Manual,Third Owner,Maruti,800 EX
+2017,500000,40000,Petrol,Individual,Automatic,First Owner,Maruti,Ciaz 1.4 AT Zeta
+2015,475000,24600,Petrol,Dealer,Manual,First Owner,Maruti,Swift 1.3 VXI ABS
+2011,260000,28481,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2009,180000,30375,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2017,611000,34400,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2015,280000,26134,Petrol,Dealer,Manual,First Owner,Maruti,Alto VXi
+2014,300000,28942,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R AMT VXI
+2011,260000,52895,Diesel,Dealer,Manual,First Owner,Maruti,Ritz VDi
+2014,210000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2014,210000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI BS IV
+2019,575000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R ZXI 1.2
+2018,600000,7600,Petrol,Individual,Automatic,First Owner,Maruti,Baleno Delta Automatic
+2015,281000,4432,Petrol,Dealer,Automatic,Second Owner,Maruti,Alto K10 VXI AGS
+2010,88000,80251,CNG,Dealer,Manual,Second Owner,Maruti,Alto Green LXi (CNG)
+2004,79000,80000,Petrol,Individual,Manual,First Owner,Maruti,Zen VXi - BS III
+2009,145000,25000,Petrol,Individual,Manual,First Owner,Maruti,A-Star Lxi
+2014,535000,80000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI Limited Edition
+2016,350000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2015,550000,32000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2001,65000,60000,Petrol,Individual,Manual,Third Owner,Maruti,800 Std
+2008,200000,50000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXi BSIV
+2010,250000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDi
+2018,590000,26350,Diesel,Dealer,Manual,First Owner,Maruti,Ignis 1.3 Delta
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2006,165000,132000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2017,375000,27289,Petrol,Dealer,Automatic,First Owner,Maruti,Alto K10 VXI AGS
+2013,525000,37000,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2008,221000,35008,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2001,85000,86000,Petrol,Individual,Manual,Second Owner,Maruti,Zen VX
+2013,400000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2017,650000,20000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Delta 1.3
+2006,60000,135000,LPG,Individual,Manual,Fourth & Above Owner,Maruti,Omni LPG STD BSIV
+2003,110000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Zen D PS
+2015,114999,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2020,550000,5000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI Plus
+2000,105000,80000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI
+2019,890000,20000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi
+2006,95000,110000,Petrol,Individual,Manual,Third Owner,Maruti,Swift 1.3 VXI ABS
+2008,65000,140000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2017,350000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI Optional
+2003,75000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Zen D PS
+2011,250000,80000,Diesel,Individual,Manual,First Owner,Maruti,Ritz LDi
+2013,350000,90000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI
+2000,100000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen VXI
+2014,409999,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2018,640000,25000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2007,160000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2018,750000,70000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.3
+2008,80000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto STD
+2016,240000,90000,Diesel,Individual,Manual,Third Owner,Maruti,Celerio VDi
+2005,60000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Esteem Lxi
+2007,70000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX
+2015,350000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI BSIV
+2006,135000,90000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi BSIII
+2006,150000,75118,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,290000,140000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz LDi
+2010,250000,70000,Petrol,Individual,Manual,First Owner,Maruti,SX4 Vxi BSIV
+2016,620000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2014,425000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDIX Limited Edition
+2015,270000,40000,Diesel,Individual,Manual,Second Owner,Maruti,Swift 1.3 DLX
+2009,180000,220000,Diesel,Individual,Manual,First Owner,Maruti,Swift Vdi BSIII
+2012,300000,80000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2003,60000,50000,Petrol,Individual,Manual,First Owner,Maruti,800 Std BSIII
+2012,250000,156000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2018,300000,25000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2004,80000,120000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2015,520000,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2008,114999,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2008,105000,30000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2011,135000,78000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2011,170000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2016,750000,69000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2012,220000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2015,265000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2013,229999,62000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2010,170000,80000,CNG,Individual,Manual,Fourth & Above Owner,Maruti,Eeco 5 STR With AC Plus HTR CNG
+2012,225000,110000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Vxi BSIV
+2016,670000,7104,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Swift ZXI BSIV
+2015,625000,11918,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Ertiga VXI
+2015,750000,45974,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,S-Cross Zeta DDiS 200 SH
+2017,600000,46507,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2019,450000,40000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Sigma BSIV
+2019,450000,40000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Sigma BSIV
+2012,550000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Ertiga VDI
+2017,260000,30000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2006,100000,80000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2001,70000,117000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2004,100000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2009,165000,76000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+1999,75000,70000,Petrol,Individual,Manual,First Owner,Maruti,Zen LX
+2006,90000,90000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
+2001,62000,70000,Petrol,Individual,Manual,First Owner,Maruti,Zen LX
+2009,125000,65000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo LXI BS IV
+2019,490000,13900,Petrol,Individual,Manual,First Owner,Maruti,Celerio X ZXI BSIV
+2019,750000,11000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2016,300000,50000,CNG,Individual,Manual,First Owner,Maruti,Alto K10 LXI CNG Optional
+2007,100000,70000,LPG,Individual,Manual,Third Owner,Maruti,Wagon R LXI DUO BSIII
+2017,509999,25000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2017,600000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift DDiS VDI
+2014,500000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI
+2007,75000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,250000,80000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Swift Dzire LDI
+2019,240000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 Std Optional
+2015,400000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Optional
+2008,130000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2013,490000,40000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDI (ABS) BS IV
+2016,350000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2012,325000,119000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2017,509999,25000,Petrol,Individual,Automatic,First Owner,Maruti,Celerio ZXI AT
+2010,229999,48500,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 LXI
+2018,550000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2010,260000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Minor ABS
+2008,150000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Omni BSIII 8-STR W/ IMMOBILISER
+2006,85000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem Vxi - BSIII
+2015,280000,15000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2015,220000,45000,Petrol,Individual,Manual,First Owner,Maruti,Celerio VXI
+2018,370000,15000,Petrol,Individual,Automatic,First Owner,Maruti,Wagon R AMT VXI Option
+2019,650000,20000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,280000,37000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LX
+2016,540000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2018,800000,20000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz Sigma BSIV
+2008,105000,40000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo LXI BSIII
+2015,190000,120000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Optional
+2012,150000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+1999,70000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen LX
+2019,950000,11000,Petrol,Individual,Automatic,First Owner,Maruti,Ertiga ZXI AT Petrol
+2013,475000,80000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire VXI
+1998,55000,80000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 Std
+2014,200000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 VXI
+2016,220000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 VXI
+2012,310000,70000,Diesel,Individual,Manual,Second Owner,Maruti,SX4 ZDI
+2017,1000000,30000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Alpha DDiS 200 SH
+2009,130000,120000,Petrol,Individual,Automatic,Second Owner,Maruti,SX4 ZXI AT
+2017,425000,8352,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2017,525000,9745,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R VXI AMT1.2BSIV
+2016,550000,54000,Diesel,Dealer,Manual,First Owner,Maruti,Swift DDiS LDI
+2016,300000,30000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2008,150000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Swift VXi BSIV
+2014,380000,100000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2006,90000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2009,180000,41090,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo Sports
+2012,225000,296823,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2014,200000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2017,650000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,380000,19000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Plus Optional
+2014,480000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2017,380000,19000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Plus Optional
+2010,145000,68000,CNG,Individual,Manual,Second Owner,Maruti,Zen Estilo LXI Green (CNG)
+2011,280000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2014,254999,30000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2015,480000,140000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI BSIV
+2015,300000,35000,Petrol,Individual,Manual,First Owner,Maruti,Celerio VXI
+2008,150000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.3 VXi
+2018,300000,25000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2019,470000,8000,Petrol,Individual,Manual,First Owner,Maruti,Swift LXI
+2017,400000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift VVT VXI
+2014,180000,56207,Petrol,Dealer,Manual,Second Owner,Maruti,Alto 800 LXI
+2006,80000,70000,Petrol,Individual,Manual,First Owner,Maruti,Zen LXI
+2019,300000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2010,130000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo VXI BSIV
+2017,1000000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS ZDI Plus
+2017,650000,67000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2017,210000,50000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Omni E MPI STD BS IV
+2007,45000,100000,CNG,Individual,Manual,Fourth & Above Owner,Maruti,Omni CNG
+2008,130000,80000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen Estilo 1.1 LXI BSIII
+2015,575000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift ZDi BSIV
+2020,347000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2008,110000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R LXI Minor
+2014,180000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 VXI
+2014,290000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2004,55000,35000,Petrol,Individual,Manual,Third Owner,Maruti,800 AC BSII
+2009,72000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto STD
+2014,250000,115000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2019,575000,25000,Petrol,Individual,Automatic,First Owner,Maruti,Swift AMT VXI
+2019,470000,10000,CNG,Individual,Manual,First Owner,Maruti,Eeco CNG 5 Seater AC BSIV
+2020,310000,1700,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2017,750000,50000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz ZDi Plus SHVS
+2010,260000,50000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2012,180000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2014,420000,155000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2011,220000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 LXI
+2010,200000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Alto K10 2010-2014 VXI
+2017,290000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI Airbag
+2009,270000,190000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDi
+2018,800000,30000,Diesel,Individual,Automatic,Second Owner,Maruti,Vitara Brezza ZDi Plus AMT
+2011,270000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI BSIV
+2015,470000,91365,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire ZDI
+2013,360000,90010,Diesel,Dealer,Manual,Second Owner,Maruti,Swift Dzire VDI
+2013,250999,80000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga VDI
+2006,75000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSII
+2013,495000,31800,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2013,310000,59100,CNG,Dealer,Manual,First Owner,Maruti,Wagon R CNG LXI
+2016,665000,51000,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDi Plus SHVS
+2016,675000,50900,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDI SHVS
+2018,980000,10000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus Dual Tone
+2011,250000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Ritz VXI
+2016,600000,72000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.3
+2009,106000,70000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2020,495000,7000,CNG,Individual,Manual,First Owner,Maruti,Eeco CNG 5 Seater AC BSIV
+2009,110000,110000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,A-Star Vxi
+2008,100000,130000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Alto LXi
+2016,150000,25000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LX
+2019,950000,10000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Delta DDiS 200 SH
+2015,535000,80000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2013,270000,74000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R Stingray VXI
+2015,300000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Celerio VXI
+2012,325000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDi
+2005,70000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2012,120000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2009,114999,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2016,340000,56000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio VXI
+2005,90000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2006,150000,140300,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2010,115999,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+2017,500000,40000,Petrol,Individual,Automatic,First Owner,Maruti,Ciaz 1.4 AT Zeta
+2015,475000,24600,Petrol,Dealer,Manual,First Owner,Maruti,Swift 1.3 VXI ABS
+2011,260000,28481,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2009,180000,30375,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2017,611000,34400,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2014,300000,28942,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R AMT VXI
+2016,375000,23000,Petrol,Dealer,Manual,Second Owner,Maruti,Wagon R VXI
+2007,275000,10211,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo LXI BSIII
+2015,350000,120000,Diesel,Individual,Manual,First Owner,Maruti,Celerio ZDi
+2017,409999,35000,Petrol,Individual,Manual,First Owner,Maruti,Celerio ZXI
+2017,800000,15000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI Plus
+2014,450000,260000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire VDI
+2002,120000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Alto VXi
+2013,100000,80000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2015,265000,32933,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2008,175000,54551,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI
+2014,250999,57112,Petrol,Dealer,Manual,First Owner,Maruti,Omni 8 Seater BSIV
+2019,650000,5000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire LDI
+2019,650000,5000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire LDI
+2013,245000,64111,CNG,Dealer,Manual,First Owner,Maruti,Alto 800 LXI CNG
+2011,221000,78892,Petrol,Dealer,Manual,First Owner,Maruti,Ritz LXi
+2012,290000,80000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI
+2017,525000,39000,Petrol,Dealer,Manual,First Owner,Maruti,Swift VXi BSIV
+2015,763000,64441,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga VDI
+2016,701000,79991,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDi Plus SHVS
+2018,520000,50000,Petrol,Individual,Automatic,First Owner,Maruti,Baleno Delta Automatic
+2017,680000,46000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz 1.4 Zeta
+2012,425000,40000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI
+2014,450000,70000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDI
+2004,40000,69111,Petrol,Individual,Manual,Third Owner,Maruti,800 AC
+2007,80000,120000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2019,210000,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2016,800000,70000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS VDI
+1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 Std
+2005,100000,30000,Petrol,Individual,Manual,First Owner,Maruti,800 AC BSIII
+2011,320000,100000,Diesel,Individual,Manual,First Owner,Maruti,SX4 VDI
+2007,60000,70000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2004,79000,80000,Petrol,Individual,Manual,First Owner,Maruti,Zen VXi - BS III
+2005,125000,34000,Petrol,Dealer,Manual,First Owner,Maruti,Zen LXi - BS III
+2001,70000,117000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI
+2020,619000,1500,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2017,420000,19890,Petrol,Dealer,Automatic,First Owner,Maruti,Wagon R VXI AMT
+2016,399000,20194,Petrol,Dealer,Manual,First Owner,Maruti,Celerio VXI
+2015,270000,59258,Petrol,Dealer,Manual,First Owner,Maruti,Alto K10 VXI
+2014,225000,35000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2016,300000,25000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2018,675000,50000,Diesel,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VDI
+2010,170000,70000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Minor
+2015,600000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI
+2014,260000,38000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2014,190000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2008,90000,70000,Petrol,Individual,Manual,Third Owner,Maruti,800 AC
+2007,100000,52000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2017,290000,110000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI Optional
+2016,520000,41000,Diesel,Individual,Manual,First Owner,Maruti,Swift ZDi BSIV
+2015,310000,30000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2015,550000,30000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+1992,50000,100000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 AC BSII
+2017,700000,50000,Diesel,Individual,Manual,Second Owner,Maruti,Vitara Brezza VDi Option
+2012,700000,110000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga VDI
+2017,700000,50000,Diesel,Individual,Manual,Second Owner,Maruti,Vitara Brezza VDi Option
+2015,550000,90658,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDi
+2018,270000,20000,Petrol,Individual,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2007,80000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R VXI Minor
+2007,73000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.3 LXI
+2016,750000,6000,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz ZXi Plus
+2018,690000,11174,Petrol,Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2007,73000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Swift 1.3 LXI
+2017,690000,41000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Sigma DDiS 200 SH
+2016,330000,72500,Petrol,Dealer,Manual,First Owner,Maruti,Eeco Smiles 5 Seater AC
+2013,280000,76600,Petrol,Dealer,Manual,First Owner,Maruti,Eeco Smiles 5 Seater AC
+2014,470000,40000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI
+2013,250000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LX Minor
+2010,229999,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2018,425000,15000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+1999,45000,50000,Petrol,Individual,Manual,Third Owner,Maruti,800 Std
+2007,479000,145000,Petrol,Individual,Manual,Third Owner,Maruti,Grand Vitara MT
+2016,620000,35000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI
+2015,260000,40000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Optional
+2010,120000,90000,LPG,Individual,Manual,Second Owner,Maruti,Wagon R Duo Lxi
+2019,190000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2019,500000,15000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Delta BSIV
+2020,210000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2012,210000,15000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI Airbag
+2009,150000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2016,380000,20000,Petrol,Individual,Manual,First Owner,Maruti,Celerio VXI
+2019,600000,5000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Delta 1.2
+2016,490000,27000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI Deca
+2018,545000,38000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire LDI
+2015,250000,25000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2007,100000,100000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX Minor
+2007,100000,110000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX BSIII
+2004,121000,110000,Petrol,Individual,Manual,Second Owner,Maruti,Zen VXi - BS III
+2017,785000,24000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2018,850000,30000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz S 1.3
+2016,375000,30000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2017,619000,40000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2003,60000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LX
+2010,130000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo VXI BSIV
+2010,225000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2011,150000,160000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 ZXI MT BSIV
+2017,550000,20000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2008,58000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSIII
+2009,120000,83000,Petrol,Individual,Manual,Second Owner,Maruti,Swift LXi BSIV
+2018,587000,80000,CNG,Individual,Manual,First Owner,Maruti,Ertiga VXI CNG
+2007,130000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R LXI Minor
+2014,300000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2018,800000,50000,Petrol,Individual,Manual,First Owner,Maruti,Ertiga VXI Petrol
+2011,160000,60000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2013,340000,100000,Diesel,Individual,Manual,Second Owner,Maruti,SX4 VDI
+2017,350000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Eeco 5 Seater AC BSIV
+2013,330000,63000,Diesel,Individual,Manual,First Owner,Maruti,Ritz VDi
+2016,325000,80000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2013,250000,55000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2013,250000,55000,Diesel,Individual,Manual,First Owner,Maruti,Swift Star VDI
+2018,500000,10000,Petrol,Individual,Automatic,First Owner,Maruti,Celerio ZXI AMT BSIV
+2008,150000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2002,80000,40000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,800 AC
+2008,80000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo VXI BSIII
+2013,240000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2013,240000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2009,140000,120000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo LXI BS IV
+2017,350000,25000,Petrol,Dealer,Manual,First Owner,Maruti,Alto K10 VXI
+2008,140000,54000,Petrol,Dealer,Manual,First Owner,Maruti,Alto LX
+1998,80000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LXI
+2018,700000,25000,Petrol,Individual,Automatic,First Owner,Maruti,Ignis 1.2 AMT Alpha BSIV
+2015,465000,60000,Diesel,Individual,Manual,Third Owner,Maruti,Swift VDI BSIV
+2017,600000,66000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDI
+2018,300000,35000,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.2 DLX
+1997,79000,70000,Petrol,Individual,Automatic,First Owner,Maruti,Esteem AX
+2017,459999,50000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI Optional
+2009,78000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2008,110000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2007,220000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Swift ZXI ABS
+2011,225000,65000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2016,400000,90000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz LDi
+2018,720000,15000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2009,110000,30000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC Uniq
+2017,800000,90000,Diesel,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.3
+2012,200000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 2010-2014 VXI
+2009,270000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI BSIV
+2016,750000,50000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz ZDi Plus SHVS
+2014,250000,60516,Petrol,Individual,Manual,First Owner,Maruti,Omni E MPI STD BS IV
+2016,685000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDI
+2014,540000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
+1998,42000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Zen LX
+1998,42000,70000,Petrol,Individual,Manual,Third Owner,Maruti,Zen LX
+2011,229999,70000,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo LXI BS IV
+2015,320000,40000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2006,100000,54000,Petrol,Individual,Manual,First Owner,Maruti,800 AC
+2007,60000,52000,Petrol,Individual,Manual,First Owner,Maruti,800 AC BSIII
+2017,300000,31489,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2007,120000,81366,Petrol,Individual,Manual,First Owner,Maruti,Zen Estilo 1.1 LXI BSIII
+2006,95000,110000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Vxi - BSIII
+2005,300000,70000,Petrol,Individual,Manual,Second Owner,Maruti,Gypsy King Hard Top Ambulance BSIV
+2008,80000,50000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2007,100000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Esteem Vxi
+2018,700000,26000,Petrol,Individual,Automatic,First Owner,Maruti,Baleno Zeta Automatic
+2016,975000,65000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza ZDi Plus
+2014,240000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 2010-2014 VXI
+1997,50000,80000,Petrol,Individual,Manual,Second Owner,Maruti,800 Std
+2013,900000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Alto 800 LXI
+2013,200000,60000,Petrol,Individual,Manual,First Owner,Maruti,800 Std
+2014,185000,40000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDI
+2017,320000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto K10 VXI
+2016,400000,25000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2018,500000,12000,Petrol,Individual,Manual,First Owner,Maruti,Ignis 1.2 Zeta BSIV
+2015,130000,70000,Petrol,Individual,Manual,First Owner,Maruti,Omni MPI STD BSIV
+2018,231999,20000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2014,700000,15000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz VXi
+2010,195000,80000,CNG,Individual,Manual,Second Owner,Maruti,Wagon R LXI CNG
+2016,650000,60000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS VDI
+2014,180000,61000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2018,980000,50000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS ZDI Plus
+2017,320000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 LXI
+2009,145000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI Minor
+2007,95000,85000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2006,55000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2015,470000,89000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2013,365000,120000,Diesel,Individual,Manual,First Owner,Maruti,Swift ZDi
+2017,430000,17000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2013,400000,125000,Diesel,Individual,Manual,Second Owner,Maruti,Swift VDI
+2015,615000,110000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire ZXI
+2012,150000,70000,Petrol,Individual,Automatic,First Owner,Maruti,A-Star AT VXI
+2013,500000,50000,Petrol,Individual,Manual,First Owner,Maruti,Swift Dzire ZXI
+2006,60000,100000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2013,250999,80000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga VDI
+2015,155000,60000,Petrol,Individual,Manual,First Owner,Maruti,Alto K10 VXI
+2019,600000,5000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2019,470000,4000,CNG,Individual,Manual,First Owner,Maruti,Eeco CNG 5 Seater AC BSIV
+2007,70000,162000,LPG,Individual,Manual,First Owner,Maruti,Wagon R LXI DUO BSIII
+2010,120000,90000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2015,302000,60000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire ZDI
+2014,150000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire LXI Option
+2008,120000,175000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2007,100000,70000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2018,550000,63000,Petrol,Individual,Manual,First Owner,Maruti,Baleno RS 1.0 Petrol
+2019,869999,15000,Petrol,Dealer,Automatic,First Owner,Maruti,Ciaz 1.4 AT Zeta
+2015,511000,58000,Diesel,Dealer,Manual,First Owner,Maruti,Baleno Delta Diesel
+2016,790000,22000,Diesel,Dealer,Manual,First Owner,Maruti,S-Cross Alpha DDiS 200 SH
+2010,110000,80000,CNG,Individual,Manual,Fourth & Above Owner,Maruti,Zen Estilo LXI Green (CNG)
+1999,70000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen LX
+1999,50000,100000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2018,625000,13800,Petrol,Individual,Automatic,First Owner,Maruti,Swift Dzire AMT VXI
+2019,650000,35000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2018,600000,30000,Petrol,Individual,Manual,First Owner,Maruti,Swift ZXI Plus
+2007,160000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Zen Estilo 1.1 LXI BSIII
+2000,61000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2017,400000,50000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI BS IV
+2004,70000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LXI
+2019,550000,51000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2008,85000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2011,150000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2001,409999,49359,Petrol,Individual,Manual,Third Owner,Maruti,Gypsy King HT BSIV
+2005,65000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC Uniq
+2008,200000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2010,240000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2018,285000,14000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2011,175000,60000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LXi
+2015,365000,23600,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2003,50000,78098,Petrol,Individual,Manual,First Owner,Maruti,800 Std
+2010,370000,97000,Petrol,Individual,Manual,Second Owner,Maruti,Swift Dzire VXi
+2014,550000,38406,Diesel,Dealer,Manual,First Owner,Maruti,Swift ZDi
+2015,390000,32260,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2012,370000,59858,Petrol,Dealer,Manual,First Owner,Maruti,Swift VXI
+2010,190000,73350,Petrol,Dealer,Manual,First Owner,Maruti,Alto LXi BSIII
+2015,550000,61187,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2015,800000,30000,Petrol,Individual,Manual,First Owner,Maruti,Ciaz ZXi
+2009,265000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2010,250000,110000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire LDi
+2000,85000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Zen LX
+2010,190000,52000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi BSIII
+2013,475000,60000,Petrol,Individual,Manual,Second Owner,Maruti,Swift VXI
+2018,300000,17000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2001,93000,97000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen LX
+2017,365000,78000,CNG,Individual,Manual,First Owner,Maruti,Celerio Green VXI
+2004,70000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Wagon R LXI
+2019,550000,51000,Petrol,Individual,Manual,First Owner,Maruti,Swift VXI
+2008,85000,120000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX BSIII
+2011,150000,40000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2001,409999,49359,Petrol,Individual,Manual,Third Owner,Maruti,Gypsy King HT BSIV
+2005,65000,70000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC Uniq
+2008,200000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI Minor
+2010,240000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BS IV
+2012,229999,40000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R VXI BSIII
+2012,250000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Maruti,Ritz VDi
+2006,70000,105700,Petrol,Individual,Manual,First Owner,Maruti,Zen LX - BS III
+2017,430999,14000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio VXI Optional
+2019,335000,28000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI Optional
+2017,350000,51000,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 7 Seater Standard BSIV
+2018,315000,56000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI Opt BSIV
+2005,80000,24000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi - BSIII
+2014,285000,64000,Petrol,Dealer,Manual,Second Owner,Maruti,Alto K10 VXI Optional
+2011,225000,37091,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2018,320000,38900,Petrol,Individual,Manual,Third Owner,Maruti,Alto K10 VXI
+2008,120000,110000,Petrol,Individual,Manual,Third Owner,Maruti,Wagon R LXI Minor
+2017,440000,14100,CNG,Dealer,Manual,First Owner,Maruti,Eeco 5 STR With AC Plus HTR CNG
+2016,434999,21000,Petrol,Dealer,Manual,First Owner,Maruti,Celerio ZXI
+2017,940000,35000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS ZDI Plus
+2016,825000,58000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS ZDI
+2012,229999,25000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R VXI Minor
+2013,640000,89000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga ZDI
+2018,440000,14000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R VXI BS IV
+2014,595000,56600,CNG,Dealer,Manual,First Owner,Maruti,Ertiga VXI CNG
+2017,690000,50000,Diesel,Individual,Manual,First Owner,Maruti,Vitara Brezza VDi Option
+2019,300000,5000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 VXI
+2009,220000,67580,Petrol,Individual,Manual,Second Owner,Maruti,Swift VXI BSIII
+2004,45000,60000,Petrol,Individual,Manual,First Owner,Maruti,Esteem Lxi
+2009,120000,250000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2017,650000,49834,Petrol,Trustmark Dealer,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2015,480000,68308,Diesel,Trustmark Dealer,Manual,First Owner,Maruti,Swift DDiS VDI
+2008,69000,100000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2017,260000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Eeco 5 Seater AC BSIV
+2012,220000,90000,Petrol,Individual,Manual,Second Owner,Maruti,SX4 Celebration Petrol
+2018,285000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Alto 800 LXI
+2016,625000,30000,Petrol,Dealer,Manual,First Owner,Maruti,Ciaz ZXi
+2009,199000,52536,Petrol,Individual,Manual,First Owner,Maruti,Swift 1.3 VXi
+2009,150000,80000,Petrol,Individual,Manual,First Owner,Maruti,Ritz VXI
+2003,70000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Maruti,Zen LXI
+2015,350000,90000,Diesel,Individual,Manual,First Owner,Maruti,Swift VDI Optional
+2018,950000,30000,Diesel,Individual,Manual,First Owner,Maruti,S-Cross Alpha DDiS 200 SH
+2018,409999,45000,CNG,Individual,Manual,First Owner,Maruti,Eeco 5 STR With AC Plus HTR CNG
+2008,350000,10000,Petrol,Individual,Manual,First Owner,Maruti,SX4 Zxi BSIII
+2009,180000,30000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LXI Minor
+2009,210000,109000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Vdi BSIII
+2017,700000,90000,Diesel,Individual,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Zeta
+2016,580000,15000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Zeta 1.2
+2015,700000,77000,Diesel,Individual,Manual,First Owner,Maruti,Ciaz ZDi SHVS
+2017,500000,40000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga SHVS LDI
+2019,556000,24000,Petrol,Individual,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2013,365000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2007,225000,50000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2011,135000,50000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2007,140000,49000,Petrol,Dealer,Manual,First Owner,Maruti,Wagon R LXI Minor
+2016,665000,560000,Diesel,Dealer,Manual,First Owner,Maruti,SX4 S Cross DDiS 320 Delta
+2015,565000,65000,Diesel,Dealer,Manual,First Owner,Maruti,Ciaz VDi Option SHVS
+2013,425000,61083,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2007,160000,80000,Petrol,Individual,Manual,Third Owner,Maruti,SX4 Zxi BSIII
+2017,749000,51500,Diesel,Individual,Manual,Second Owner,Maruti,Ciaz ZDi Plus SHVS
+2010,300000,120000,Diesel,Individual,Manual,Third Owner,Maruti,Swift Dzire VDi
+2015,320000,40000,Petrol,Individual,Manual,First Owner,Maruti,Ritz VXi
+2017,720000,35000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI Optional
+2015,390000,70000,Diesel,Individual,Manual,Second Owner,Maruti,Celerio VDi
+2015,484999,90000,Diesel,Individual,Manual,Second Owner,Maruti,Swift Dzire ZDI
+2017,625000,52000,Petrol,Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2017,880000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS ZDI
+2017,685000,72000,Diesel,Dealer,Manual,First Owner,Maruti,Vitara Brezza LDi Option
+2014,480000,101000,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2016,630000,55000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2015,500000,100000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2011,350000,105000,Diesel,Dealer,Manual,First Owner,Maruti,SX4 ZDI
+2015,495000,105000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
+2017,890000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS VDI
+2017,625000,52000,Petrol,Dealer,Manual,First Owner,Maruti,Baleno Alpha 1.2
+2017,880000,64000,Diesel,Dealer,Manual,First Owner,Maruti,Ertiga SHVS ZDI
+2017,685000,72000,Diesel,Dealer,Manual,First Owner,Maruti,Vitara Brezza LDi Option
+2014,480000,101000,Diesel,Dealer,Manual,First Owner,Maruti,Swift Dzire VDI
+2016,630000,55000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2015,500000,100000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI
+2011,350000,105000,Diesel,Dealer,Manual,First Owner,Maruti,SX4 ZDI
+2015,495000,105000,Diesel,Dealer,Manual,First Owner,Maruti,Swift VDI BSIV
+2017,890000,60000,Diesel,Individual,Manual,Second Owner,Maruti,Ertiga SHVS VDI
+2011,200000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto LXi
+2013,290000,52000,Petrol,Individual,Manual,First Owner,Maruti,Wagon R LX Minor
+2013,320000,80000,Petrol,Individual,Manual,Second Owner,Maruti,Wagon R LXI BS IV
+2005,100000,124000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
+2008,110000,120000,Petrol,Individual,Manual,Third Owner,Maruti,Alto LX BSIII
+2019,680000,40000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2004,37500,90000,Petrol,Individual,Manual,Second Owner,Maruti,800 Std
+2011,200000,120000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2005,56000,23000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXI
+2011,150000,40000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2018,200000,35000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 LXI
+2019,1000000,15000,Diesel,Individual,Manual,First Owner,Maruti,Ertiga 1.5 VDI
+2015,470000,170000,Diesel,Individual,Manual,First Owner,Maruti,Swift Dzire VDI
+2017,415000,20000,Petrol,Individual,Manual,First Owner,Maruti,Celerio ZXI
+2005,95000,50000,Petrol,Individual,Manual,Second Owner,Maruti,Alto STD
+2012,400000,70000,Diesel,Individual,Manual,First Owner,Maruti,Swift LDI
+2008,114999,66782,Petrol,Individual,Manual,Second Owner,Maruti,Alto LX
+2006,75000,130000,Petrol,Individual,Manual,First Owner,Maruti,Alto LX
+2014,195000,75000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC
+2015,155000,40000,Petrol,Individual,Manual,First Owner,Maruti,Alto 800 Base
+2000,65000,90000,Petrol,Individual,Manual,Second Owner,Maruti,Alto LXi
+2012,225000,90000,Diesel,Individual,Manual,Second Owner,Maruti,Ritz VDi
+2009,110000,83000,Petrol,Individual,Manual,Second Owner,Maruti,800 AC BSIII

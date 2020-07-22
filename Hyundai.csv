@@ -1,0 +1,822 @@
+year,selling_price,km_driven,fuel,seller_type,transmission,owner,Car_Company,Model_Name
+2012,600000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2016,550000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2015,850000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 VTVT S
+2012,600000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2016,550000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2015,850000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 VTVT S
+2019,1195000,5000,Diesel,Dealer,Manual,First Owner,Hyundai,Venue SX Opt Diesel
+2014,229999,60000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,i10 Magna 1.1L
+2012,625000,40000,Diesel,Individual,Manual,First Owner,Hyundai,Elantra CRDi S
+2009,150000,79000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing GLS
+2019,500000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2018,750000,29000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Sportz 1.4 CRDi
+2014,465000,70000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 2015-2017 Sportz Option 1.4 CRDi
+2014,240000,73300,Petrol,Dealer,Manual,Second Owner,Hyundai,EON Magna Plus
+2018,300000,31000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2010,248000,63000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Sportz 1.2
+2005,80000,120000,Petrol,Individual,Manual,Third Owner,Hyundai,Getz GLS
+2015,450000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Sportz
+2019,650000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Elite i20 Diesel Era
+2017,1025000,9000,Petrol,Dealer,Manual,First Owner,Hyundai,Creta 1.6 SX Option
+2007,80000,58000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XO
+2010,600000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Sonata CRDi M/T
+2019,750000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Sportz Plus Dual Tone BSIV
+2016,780000,60000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 CRDi S
+2016,690000,80000,Petrol,Individual,Automatic,First Owner,Hyundai,Verna 1.6 VTVT AT S Option
+2016,840000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.6 CRDi SX
+2015,229999,40000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz 1.1L
+2015,200000,70000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2003,75000,57000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LP zipPlus
+2013,280000,3240,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
+2015,540000,5000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna 1.2
+2018,700000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta
+2016,430000,80000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2002,65000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LE
+2007,75000,114000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2008,210000,53772,Petrol,Individual,Manual,First Owner,Hyundai,Getz 1.3 GLS
+2012,170000,60000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2011,350000,50000,Petrol,Individual,Automatic,Second Owner,Hyundai,i10 Asta AT
+2006,70000,110000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing XG
+2016,600000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna 1.2
+2009,280000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Asta
+2012,280000,110000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 1.2 Sportz
+2014,265000,55000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus Option
+2012,385000,58000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
+2012,235000,54000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2008,120000,90000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna i (Petrol)
+2017,700000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2015,390000,90000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Magna
+2011,175000,139000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
+2018,465000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
+2018,500000,32000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2019,800000,11240,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Asta Option BSIV
+2017,490000,66000,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 CRDi Magna
+2013,290000,49000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL Plus
+2017,680000,44000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2009,180000,60000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 1.4 Magna ABS
+2006,130000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,Getz GL
+2018,650000,20000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 1.2 Spotz
+2009,300000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta (o)
+2010,270000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Asta
+2013,550000,29000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2018,229999,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2015,160000,70000,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Kappa Magna Plus
+2009,250000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era
+2015,500000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.4 VTVT
+2017,500000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2013,345000,44000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Option
+2018,900000,24000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 EX
+2017,575000,20000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 1.2 Spotz
+2018,900000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 EX
+2016,350000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2019,755000,8000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
+2015,350000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Xcent 1.1 CRDi Base
+2010,130000,98000,CNG,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS CNG
+2012,200000,46000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2010,250000,40000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz Petrol
+2019,600000,10000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2017,595000,33100,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Active 1.2 S
+2014,190000,40000,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
+1999,50000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro GLS I - Euro I
+2019,350000,30000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Era
+2017,330000,80577,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.4 VTVT
+2011,300000,127500,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 CRDI
+2015,235000,40903,Petrol,Dealer,Manual,First Owner,Hyundai,EON D Lite Plus
+2015,400000,61690,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Sportz
+2015,600000,64484,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Asta 1.2
+2016,600000,30000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2019,500000,1250,Petrol,Individual,Manual,First Owner,Hyundai,Santro Magna BSIV
+2008,195000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi
+2013,200000,24005,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2009,120000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era 1.1
+2012,180000,90000,LPG,Individual,Manual,First Owner,Hyundai,EON LPG Magna Plus
+2016,600000,61000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna 1.2
+2009,270000,27633,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era 1.1
+2012,250000,100000,LPG,Individual,Manual,First Owner,Hyundai,Santro Xing GLS Audio LPG
+2015,850000,84000,Diesel,Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Plus
+2013,484999,65000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX
+2017,1650000,55000,Diesel,Dealer,Manual,First Owner,Hyundai,Tucson 2.0 e-VGT 2WD MT
+2015,295000,21000,Petrol,Dealer,Manual,Second Owner,Hyundai,EON Era Plus
+2018,1475000,11700,Petrol,Dealer,Automatic,First Owner,Hyundai,Creta 1.6 VTVT AT SX Plus
+2017,1100000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Verna VTVT 1.6 AT SX Option
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2015,1150000,54634,Diesel,Trustmark Dealer,Automatic,Second Owner,Hyundai,Creta 1.6 SX Automatic Diesel
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2013,350000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Sportz 1.2
+2013,380000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Sportz 1.2
+2013,250000,88600,LPG,Individual,Manual,First Owner,Hyundai,i10 Magna LPG
+2007,90000,80000,CNG,Individual,Manual,Third Owner,Hyundai,Santro Xing GL PLUS CNG
+2001,55000,60000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro GLS I - Euro I
+2007,155000,100000,Diesel,Individual,Manual,Fourth & Above Owner,Hyundai,Verna CRDi
+2013,495000,100000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX
+2008,250000,110000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi
+2012,409999,60000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2020,700000,1400,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 Nios Magna CRDi
+2012,390000,86000,Diesel,Dealer,Manual,Second Owner,Hyundai,Verna 1.6 SX
+2016,600000,30000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi SX Option
+2011,250000,120000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Sportz
+2011,229999,60000,LPG,Individual,Manual,Second Owner,Hyundai,Santro Xing GL Plus LPG
+2012,180000,100000,Petrol,Individual,Manual,Third Owner,Hyundai,Accent Executive
+2017,475000,42000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2015,325000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Sportz
+2016,1199000,30093,Diesel,Dealer,Automatic,First Owner,Hyundai,Creta 1.6 CRDi AT SX Plus
+2013,425000,59319,Petrol,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX VTVT
+2013,325000,35299,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Dual Tone
+2010,265000,47564,Petrol,Dealer,Manual,Second Owner,Hyundai,i20 Asta
+2014,550000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2010,210000,90000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 Magna
+2019,1200000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2018,325000,20629,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2015,400000,30000,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 AT Asta
+2015,525000,70378,Petrol,Dealer,Manual,First Owner,Hyundai,i20 2015-2017 Magna 1.2
+2016,220000,43700,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2017,290000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2008,150000,30000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz 1.2
+2016,770000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Verna 1.6 VTVT AT S Option
+2013,530000,89000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX VTVT (O)
+2016,350000,12000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa SX
+2018,1150000,26430,Diesel,Dealer,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2012,225000,48000,Petrol,Dealer,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2017,744000,106000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Asta Option
+2013,125000,205000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2011,260000,125000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna 1.6 CRDI
+2015,350000,90000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Sportz
+2019,550000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2016,900000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 CRDi Base
+2013,620000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2009,250000,72000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi (Diesel)
+2001,52000,50000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LP zipPlus
+2011,450000,60000,Petrol,Individual,Automatic,Third Owner,Hyundai,Verna 1.6 SX VTVT AT
+2010,110000,110000,Petrol,Individual,Manual,First Owner,Hyundai,Getz 1.3 GVS
+2013,175000,80000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL Plus
+2009,160000,70000,CNG,Individual,Manual,Third Owner,Hyundai,Accent GLE CNG
+2017,400000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Spotz
+2008,150000,90000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Magna 1.1
+2009,110000,120000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2017,400000,38000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 1.2 Spotz
+2009,140000,120000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2016,210000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite
+2018,100000,21302,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2010,210000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Sportz 1.2
+2006,90000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XG eRLX Euro III
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2017,550000,9748,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta
+2018,1490000,20694,Diesel,Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Option
+2015,490000,31080,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta Option
+2014,260000,37605,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2014,455000,55850,Diesel,Dealer,Manual,First Owner,Hyundai,Xcent 1.1 CRDi SX Option
+2013,330000,38000,Petrol,Dealer,Automatic,First Owner,Hyundai,i10 Sportz 1.2 AT
+2007,110000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Getz GLE
+2005,100000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Accent CRDi
+2005,95000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XG
+2015,409999,58000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Sportz
+2014,220000,42000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2015,950000,60000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Option
+2011,147000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era 1.1 iTech SE
+2016,475000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz Option 1.2
+2014,250000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
+2012,160000,70000,Petrol,Individual,Manual,Third Owner,Hyundai,EON Era Plus
+2001,68000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LE zipPlus
+2017,500000,26500,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2020,1050000,10000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 EX Diesel
+2016,600000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna 1.2
+2017,900000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX
+2019,550000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2013,300000,90000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2013,280000,52000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Magna Executive
+2015,375000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2017,280000,28838,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2017,540000,20000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Asta Option
+2005,114999,90000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2017,480000,53261,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Magna
+2015,250000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2018,1100000,30000,Diesel,Individual,Automatic,First Owner,Hyundai,Verna CRDi 1.6 AT SX Option
+2016,500000,40000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta 1.2
+2009,150000,60000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Magna 1.2 iTech SE
+2018,450000,6000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2009,150000,68000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XS
+2015,400000,42000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Sportz
+2006,160000,90000,Petrol,Individual,Automatic,Second Owner,Hyundai,Santro Xing XG AT
+2012,409999,120000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna 1.6 SX
+2007,155000,65000,Petrol,Dealer,Manual,First Owner,Hyundai,Verna SX
+2018,650000,37000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Active S Diesel
+2016,550000,23000,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Active SX Petrol
+2012,240000,40000,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2015,245000,32000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Magna Plus
+2013,229999,13500,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite Plus
+2015,325000,25000,Petrol,Individual,Manual,Third Owner,Hyundai,Grand i10 Magna
+2008,150000,70950,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi
+2013,300000,90000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2015,375000,72000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi Base
+2017,600000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 S
+2009,270000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi
+2017,375000,10000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2017,375000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz 1.1L
+2014,341000,31491,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Asta
+2012,170000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GL Plus
+2011,195000,80000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2 iTech SE
+2012,190000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2 iTech SE
+2016,535000,55838,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Active S Petrol
+2013,425000,66000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX VTVT (O)
+2006,125000,120000,Diesel,Individual,Manual,Third Owner,Hyundai,Elantra CRDi (Leather Option)
+2011,220000,70000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 CRDi Era
+2007,150000,84000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna XXi (Petrol)
+2007,100000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XK (Non-AC)
+2015,310000,35925,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Sportz 1.1L
+2018,1200000,60000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2016,850000,75000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 CRDI SX Option
+2006,85000,100000,Petrol,Individual,Automatic,Third Owner,Hyundai,Santro Xing XL AT eRLX Euro III
+2017,486000,26500,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Magna BSIV
+2016,580000,57000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2012,450000,110000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2012,550000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2019,660000,7000,Petrol,Individual,Manual,Second Owner,Hyundai,Xcent 1.2 VTVT S
+2013,200000,120000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2019,720000,3000,Petrol,Individual,Automatic,First Owner,Hyundai,Elite i20 Asta Option CVT BSIV
+2017,570000,35000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 S
+2018,800000,52000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 E Plus
+2015,350000,61658,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Magna
+2019,650000,20000,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2016,430000,35000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi SX
+2017,650000,23000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX VTVT
+2010,120000,67000,Petrol,Individual,Manual,Third Owner,Hyundai,Accent Executive
+2011,235000,74500,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2 iTech SE
+2011,300000,118700,Diesel,Individual,Manual,Second Owner,Hyundai,i20 1.4 CRDi Asta
+2020,600000,5000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Nios Sportz
+2020,640000,4000,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 Nios AMT Magna
+2015,600000,35000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT S
+2014,290000,29000,LPG,Individual,Manual,First Owner,Hyundai,i10 Magna LPG
+2015,600000,30000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT S
+2008,160000,110000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Era 1.1
+2008,155000,60000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,i10 Magna 1.1
+2015,550000,90000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2018,950000,41395,Petrol,Individual,Automatic,First Owner,Hyundai,Verna VTVT 1.6 AT SX Option
+2015,700000,48000,Petrol,Dealer,Manual,First Owner,Hyundai,Elantra SX
+2012,575000,89550,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2006,100000,40000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2012,450000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 1.4 CRDi Sportz
+2017,500000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2013,345000,44000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Option
+2014,1000000,80000,Diesel,Individual,Automatic,First Owner,Hyundai,Santa Fe 4WD AT
+2019,500000,5000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2019,700000,8000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
+2019,475000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Santro Magna AMT BSIV
+2009,175000,136000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi SX ABS
+2010,170000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
+2019,480000,10000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Sportz BSIV
+2003,70000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LE zipPlus
+2013,360000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi
+2010,270000,60000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 Magna
+2010,145000,90000,CNG,Individual,Manual,Second Owner,Hyundai,Accent GLE CNG
+2015,420000,60000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi Base
+2008,125000,85000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2010,325000,135000,Diesel,Individual,Manual,First Owner,Hyundai,Verna Transform CRDi VGT SX ABS
+2012,250000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna
+2017,315000,18469,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,EON Era Plus Option
+2015,850000,58692,Diesel,Trustmark Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2015,900000,54784,Diesel,Trustmark Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2019,400000,16000,Petrol,Individual,Automatic,First Owner,Hyundai,Santro Magna AMT BSIV
+2013,370000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT
+2012,160000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,EON D Lite Plus
+2013,160000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2016,229999,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2017,525000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Option
+2008,130000,100000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2020,545000,7300,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Magna Plus BSIV
+2018,450000,6000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2015,300000,22000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Optional
+2008,145000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Accent GLX
+2007,130000,135000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XK eRLX EuroIII
+2013,324000,30000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2015,300000,20500,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Optional
+2004,120000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Accent GLS
+2005,250000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Getz GLS
+2008,120000,41723,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GL Plus
+2016,320000,24662,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2017,575000,27005,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Sportz Option
+2014,355000,39227,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2009,195000,27005,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing GLS
+2004,90000,100005,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XG
+2013,580000,45264,Diesel,Dealer,Manual,First Owner,Hyundai,Verna SX Diesel
+2014,290000,12000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era
+2010,270000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Asta
+2010,225000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2
+2013,400000,59213,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz 1.2
+2006,120000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Accent GLX
+2012,500000,72000,Diesel,Dealer,Automatic,Second Owner,Hyundai,Verna SX CRDi AT
+2012,300000,80000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta 1.2
+2018,950000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.4 CRDi Base
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2015,530000,77000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi
+2012,312000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 CRDI
+2005,150000,47000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XL eRLX Euro III
+2010,229999,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna Transform CRDi VGT ABS
+2016,875000,74000,Diesel,Individual,Automatic,First Owner,Hyundai,Creta 1.6 CRDi AT SX Plus
+2018,800000,40000,Petrol,Individual,Manual,First Owner,Hyundai,Verna VTVT 1.6 SX
+2018,500000,8000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 VTVT S
+2013,250000,35000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2005,75000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro GLS I - Euro I
+2006,60000,120000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing XG eRLX Euro III
+2013,315000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2008,220000,54309,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 Xi ABS
+2020,1000000,5000,Diesel,Individual,Manual,First Owner,Hyundai,Venue SX Opt Diesel
+2011,500000,31000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.4 EX
+2001,52000,50000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LP zipPlus
+2017,600000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 S
+2011,250000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz
+2018,800000,52000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 E Plus
+2011,150000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Accent Executive
+2013,275000,90000,LPG,Individual,Manual,Second Owner,Hyundai,i10 Magna LPG
+2009,114999,106000,Petrol,Individual,Manual,Third Owner,Hyundai,Accent GLE
+2010,150000,90000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2
+2002,60000,120000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro LS zipPlus
+2014,229999,65000,Petrol,Dealer,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2011,321000,81257,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 CRDi Sportz
+2017,509999,44000,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Sportz Option
+2007,175000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi ABS
+2013,335000,110000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2012,215000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
+2008,120000,90000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna i (Petrol)
+2009,200000,100000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
+2017,550000,3917,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2019,650000,13500,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Sportz Plus BSIV
+2013,200000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Accent Executive
+2011,370000,55168,Petrol,Individual,Manual,Second Owner,Hyundai,Verna Transform SX VTVT
+2013,375000,41041,Petrol,Dealer,Manual,First Owner,Hyundai,i20 1.2 Sportz
+2009,235000,67067,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2013,345000,66066,Petrol,Dealer,Automatic,First Owner,Hyundai,i10 Sportz 1.2 AT
+2014,400000,48000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2015,250000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite Plus
+2012,465000,70070,Diesel,Dealer,Automatic,First Owner,Hyundai,Verna SX CRDi AT
+2015,500000,50000,Petrol,Dealer,Automatic,First Owner,Hyundai,i10 Sportz 1.2 AT
+2015,465000,63063,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 AT Asta
+1999,60000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Accent GLE 1
+2005,70000,90000,Petrol,Individual,Manual,Third Owner,Hyundai,Getz GLX
+2016,229999,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2014,370000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi
+2010,210000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Sportz 1.2
+2006,90000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XG eRLX Euro III
+2010,200000,78000,Diesel,Dealer,Manual,Second Owner,Hyundai,Verna SX Diesel
+2011,210000,72000,Diesel,Dealer,Manual,Third Owner,Hyundai,Verna SX Diesel
+2011,220000,58000,Petrol,Dealer,Manual,Second Owner,Hyundai,i20 1.2 Sportz
+2013,325000,78000,Diesel,Dealer,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
+2007,125000,76000,Petrol,Dealer,Manual,Third Owner,Hyundai,Accent GLS
+2005,130000,110000,CNG,Individual,Manual,Second Owner,Hyundai,Santro AT CNG
+2006,170000,170000,Diesel,Individual,Manual,First Owner,Hyundai,Tucson CRDi
+2015,500000,80000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2005,70000,170000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing XG eRLX Euro III
+2012,330000,90000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 1.2 Sportz
+2010,120000,90000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing GLS
+2013,430000,100000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2014,190000,50000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2014,315000,110000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Sportz 1.4 CRDi
+2015,300000,60000,Diesel,Individual,Manual,Second Owner,Hyundai,Grand i10 CRDi Magna
+2017,1650000,55000,Diesel,Dealer,Manual,First Owner,Hyundai,Tucson 2.0 e-VGT 2WD MT
+2015,295000,21000,Petrol,Dealer,Manual,Second Owner,Hyundai,EON Era Plus
+2018,1475000,11700,Petrol,Dealer,Automatic,First Owner,Hyundai,Creta 1.6 VTVT AT SX Plus
+2017,1100000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Verna VTVT 1.6 AT SX Option
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2015,1150000,54634,Diesel,Trustmark Dealer,Automatic,Second Owner,Hyundai,Creta 1.6 SX Automatic Diesel
+2019,720000,3000,Petrol,Individual,Automatic,First Owner,Hyundai,Elite i20 Asta Option CVT BSIV
+2014,180000,76000,Petrol,Individual,Manual,Second Owner,Hyundai,EON D Lite
+2003,85000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XG
+2009,140000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Era
+2011,150000,157000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL
+2008,140000,103921,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna
+2020,1050000,10000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.4 EX Diesel
+2016,210000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite
+2008,110000,154000,Diesel,Individual,Manual,Third Owner,Hyundai,Getz 1.5 CRDi GVS
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2006,170000,245244,Diesel,Individual,Manual,Fourth & Above Owner,Hyundai,Accent CRDi
+2002,85000,100000,Diesel,Individual,Manual,Third Owner,Hyundai,Accent CRDi
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2005,70000,68500,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing XG
+2019,484999,5007,Petrol,Dealer,Automatic,First Owner,Hyundai,Santro Sportz AMT
+2010,190000,38000,Petrol,Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT
+2011,235000,43100,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Sportz 1.2
+2017,250000,19000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2017,540000,20000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Asta Option
+2007,175000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi ABS
+2012,440000,70000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Asta (o) 1.4 CRDi (Diesel)
+2013,270000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2017,595000,27000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta Option
+2019,1295000,9000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2018,515000,16000,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Asta
+2018,550000,31000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz Dual Tone
+2007,135000,85000,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GLS I - Euro II
+2018,270000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2016,210000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite
+2018,100000,21302,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2016,650000,100000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Active 1.4 SX
+2010,150000,105546,Petrol,Individual,Manual,First Owner,Hyundai,Getz 1.3 GLS
+2013,340000,35000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna Optional 1.2
+2019,800000,11240,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Asta Option BSIV
+2016,950000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.4 CRDi S Plus
+2018,1150000,26430,Diesel,Dealer,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2013,550000,42324,Diesel,Dealer,Manual,Second Owner,Hyundai,Verna SX Diesel
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2016,396000,28643,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2020,520000,5000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Sportz BSIV
+2014,400000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2016,560000,68523,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Active S Petrol
+2019,400000,5000,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2017,450000,43000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.2 CRDi E
+2010,250000,34500,Petrol,Individual,Manual,Second Owner,Hyundai,i20 1.2 Era
+2010,145000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Accent GLX
+2013,420000,50000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Magna Optional 1.4 CRDi
+2013,420000,50000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Magna Optional 1.4 CRDi
+2012,150000,55766,Petrol,Individual,Manual,Second Owner,Hyundai,EON Sportz
+2006,100000,40000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2016,320000,24662,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2017,575000,27005,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Sportz Option
+2014,355000,39227,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2009,195000,27005,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing GLS
+2010,400000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna 1.2
+2008,190000,70000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing GLS
+2014,525000,54000,Petrol,Dealer,Manual,Second Owner,Hyundai,i20 Asta (o)
+2017,1025000,9000,Petrol,Dealer,Manual,First Owner,Hyundai,Creta 1.6 SX Option
+2014,475000,23122,Petrol,Dealer,Manual,Second Owner,Hyundai,i20 Asta 1.2
+2007,80000,58000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XO
+2008,110000,154000,Diesel,Individual,Manual,Third Owner,Hyundai,Getz 1.5 CRDi GVS
+2012,150000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Sportz
+2019,600000,5200,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Sportz Plus Dual Tone BSIV
+2011,235000,46000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era 1.1 iTech SE
+2019,1000000,25000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi 1.6 SX
+2012,390000,90000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2017,600000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 1.2 Spotz
+2019,730000,35000,Diesel,Individual,Manual,Second Owner,Hyundai,Elite i20 Magna Plus Diesel
+2017,450000,12700,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2015,170000,80000,Petrol,Individual,Manual,Second Owner,Hyundai,EON 1.0 Kappa Magna Plus
+2015,699000,30000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Active 1.4 SX with AVN
+2012,350000,160000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 1.4 CRDi Magna
+2014,335000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,Xcent 1.2 Kappa Base
+2005,250000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Getz GLS
+2008,120000,41723,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GL Plus
+2010,250000,55000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna
+2018,511000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 VTVT E Plus
+2010,125000,60000,Petrol,Individual,Manual,Third Owner,Hyundai,i10 Sportz 1.2
+2012,300000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GLS
+2012,400000,70000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 CRDi Asta
+2012,500000,26000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 CRDI
+2014,550000,100000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX VTVT
+2014,650000,30000,Diesel,Individual,Manual,Second Owner,Hyundai,Elantra CRDi SX
+2008,110000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,Getz 1.3 GLS
+2012,330000,44000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Magna
+2014,600000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX VTVT (O)
+2012,210000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna
+2016,450000,35000,Petrol,Individual,Manual,Second Owner,Hyundai,Xcent 1.2 Kappa SX
+2012,480000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2015,500000,35000,Petrol,Individual,Manual,Second Owner,Hyundai,i20 Sportz 1.2
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2017,520000,10510,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Magna AT
+2012,229999,49824,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2015,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT SX
+2019,500000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2012,150000,55766,Petrol,Individual,Manual,Second Owner,Hyundai,EON Sportz
+2014,650000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX
+2005,100000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Accent CRDi
+2016,515000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi Base
+2019,520000,10000,CNG,Individual,Manual,First Owner,Hyundai,Santro Magna CNG BSIV
+2015,300000,90000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2016,650000,40000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2010,280000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi SX
+2018,229999,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2018,245000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2016,375000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2006,225000,80000,Petrol,Individual,Automatic,Third Owner,Hyundai,Sonata AT Leather
+2006,275000,80000,Petrol,Individual,Automatic,Fourth & Above Owner,Hyundai,Sonata 2.4L AT
+2017,700000,35000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2015,450000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Asta Option
+2016,350000,12000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa SX
+2005,71000,22000,Petrol,Individual,Manual,First Owner,Hyundai,Getz GLS ABS
+2018,700000,27000,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Petrol Asta Option
+2009,254999,80000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.2
+2016,750000,80000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2011,390000,90000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2005,140000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing XG
+2010,220000,96000,Petrol,Individual,Manual,Third Owner,Hyundai,i20 1.2 Magna
+2014,525000,54000,Petrol,Dealer,Manual,Second Owner,Hyundai,i20 Asta (o)
+2015,434999,29000,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Era
+2016,690000,73000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 CRDi SX
+2012,204999,60000,Petrol,Dealer,Manual,Third Owner,Hyundai,EON D Lite Plus
+2015,821000,50000,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 Gamma SX Plus
+2018,815000,42000,Diesel,Individual,Manual,First Owner,Hyundai,Elite i20 Diesel Asta Option
+2017,1200000,40000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 CRDI SX Option
+2010,155000,90000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Santro Xing GLS
+2002,80000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro LP zipPlus
+2017,550000,9748,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta
+2018,1490000,20694,Diesel,Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Option
+2015,490000,31080,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta Option
+2014,260000,37605,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus
+2014,455000,55850,Diesel,Dealer,Manual,First Owner,Hyundai,Xcent 1.1 CRDi SX Option
+2013,330000,38000,Petrol,Dealer,Automatic,First Owner,Hyundai,i10 Sportz 1.2 AT
+2019,738000,8000,Petrol,Individual,Automatic,First Owner,Hyundai,Elite i20 Sportz Plus CVT BSIV
+2006,100000,120000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro GS
+2015,765000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 CRDi SX
+2014,350000,52000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi
+2016,650000,26000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2016,650000,26000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2014,300000,120000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2004,80000,58000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XG
+2016,220000,43700,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2017,290000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2008,150000,30000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz 1.2
+2010,250000,40000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz Petrol
+2015,425000,12000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2015,516000,90000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz 1.2
+2014,450000,80000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Sportz 1.2
+2015,550000,49000,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Sportz Plus BSIV
+2010,250000,40000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna
+2019,400000,16000,Petrol,Individual,Automatic,First Owner,Hyundai,Santro Magna AMT BSIV
+2019,425000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Magna BSIV
+2018,310000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2019,600000,80000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 VTVT S
+2013,300000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta 1.4 CRDi
+2016,420000,44440,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Sportz
+2018,1250000,30000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Plus
+2015,390000,80000,Diesel,Individual,Manual,Second Owner,Hyundai,Grand i10 CRDi Sportz
+2013,425000,22700,Diesel,Dealer,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
+2016,300000,96000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2006,90000,75000,Petrol,Individual,Manual,Third Owner,Hyundai,Accent GLS 1.6 ABS
+2016,250000,30000,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus Option
+2009,300000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta (o)
+2007,95000,120000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Getz GLS
+2018,475000,23000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Magna BSIV
+2009,325000,25000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna CRDi SX ABS
+2008,229999,146000,Diesel,Individual,Manual,Third Owner,Hyundai,Verna CRDi SX
+2018,1150000,26430,Diesel,Dealer,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2012,225000,48000,Petrol,Dealer,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2012,500000,130000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2007,70000,55000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XK
+2008,195000,56000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna
+2015,471000,41025,Petrol,Dealer,Automatic,First Owner,Hyundai,Xcent 1.2 VTVT S AT
+2012,225000,53122,Petrol,Dealer,Manual,Second Owner,Hyundai,EON Magna
+2011,271000,74113,Petrol,Dealer,Manual,First Owner,Hyundai,i20 1.2 Asta
+2016,840000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.6 CRDi SX
+2015,229999,40000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz 1.1L
+2015,200000,70000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2003,75000,57000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LP zipPlus
+2013,280000,3240,Petrol,Individual,Manual,Second Owner,Hyundai,EON Era Plus
+2015,540000,5000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Magna 1.2
+2018,700000,10000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta
+2005,100000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Accent CRDi
+2014,265000,55000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era Plus Option
+2018,550000,11000,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Petrol Magna Exective
+2012,250000,44588,Petrol,Dealer,Manual,First Owner,Hyundai,EON Magna
+2018,1600000,40000,Diesel,Individual,Automatic,First Owner,Hyundai,Tucson 2.0 e-VGT 2WD AT GL
+2018,740000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta Dual Tone
+2011,300000,20000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era 1.1 iTech SE
+2014,210000,70000,Petrol,Individual,Manual,Third Owner,Hyundai,EON Era Plus
+2015,300000,70000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Asta
+2017,799000,31707,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 EX
+2009,200000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 i ABS
+2001,68000,70000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LE zipPlus
+2017,500000,26500,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2017,900000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX
+2008,120000,90000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna 1.1
+2016,600000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.2
+2016,550000,60000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2013,320000,73000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 CRDi Magna
+2018,500000,32000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2017,655000,84000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2012,470000,109052,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX
+2009,245000,75000,Diesel,Dealer,Automatic,First Owner,Hyundai,Verna SX AT Diesel
+2018,300000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2017,350000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.2 CRDi E
+2017,635000,25000,Petrol,Dealer,Automatic,First Owner,Hyundai,Elite i20 Asta Option CVT BSIV
+2017,280000,28838,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Era Plus
+2007,85000,85000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
+2018,1575000,10000,Petrol,Individual,Automatic,First Owner,Hyundai,Elantra 2.0 SX AT
+2018,860000,30000,Diesel,Dealer,Manual,Second Owner,Hyundai,Verna 1.6 CRDI SX Option
+2013,650000,54000,Diesel,Dealer,Manual,First Owner,Hyundai,Elantra CRDi S
+2013,525000,71000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2016,620000,60000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 CRDi SX
+2012,350000,80000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Magna Optional 1.4 CRDi
+2011,260000,97700,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,i20 1.2 Sportz
+2012,170000,170000,LPG,Individual,Manual,Third Owner,Hyundai,EON LPG Magna Plus
+2016,340000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Sportz
+2003,48000,50000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Santro LE zipPlus
+2008,125000,102000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
+2013,160000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2011,250000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz
+2018,550000,20000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2019,600000,1100,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz AT
+2008,125000,60000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era 1.1
+2020,1050000,1100,Petrol,Individual,Manual,First Owner,Hyundai,Venue SX Opt Turbo BSIV
+2018,300000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2007,123000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna i (Petrol)
+2015,320000,70000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Magna
+2016,270000,175000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi S
+2017,540000,60000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Magna Executive
+2020,545000,5000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Magna BSIV
+2015,300000,48000,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna 1.1 iTech SE
+2012,250000,70000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 CRDi Magna
+2016,600000,50000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Asta Option 1.4 CRDi
+2004,80000,58000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XG
+2015,425000,12000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Sportz
+2012,193000,45000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing GLS
+2006,80000,110000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XO
+2013,265000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era
+2018,320000,25000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus Option
+2016,1300000,55000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Option
+2006,100000,60000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2017,525000,19000,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 Asta Option AT
+2014,450000,78000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX
+2019,721000,10000,Petrol,Individual,Manual,First Owner,Hyundai,Elite i20 Sportz Plus BSIV
+2012,280000,30000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
+2019,1200000,1200,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 SX
+2011,180000,134444,Petrol,Individual,Automatic,Second Owner,Hyundai,i10 Sportz AT
+2014,390000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Grand i10 CRDi Sportz
+2017,740000,60000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2019,1100000,100000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi 1.6 SX Option
+2015,375000,55000,Petrol,Individual,Manual,First Owner,Hyundai,Xcent 1.2 Kappa S
+2014,550000,50000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.4 CRDi
+2012,434999,235000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX
+2011,254999,24000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Era
+2018,1200000,15000,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 SX Option
+2009,160000,90000,Diesel,Individual,Manual,First Owner,Hyundai,Verna CRDi
+2018,830000,40000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Asta Option
+2012,330000,44000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Magna
+2014,600000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna 1.6 SX VTVT (O)
+2012,210000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna
+2010,229999,70000,Petrol,Individual,Manual,First Owner,Hyundai,Verna Transform VTVT
+2013,400000,100000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Magna Optional 1.4 CRDi
+2008,100000,60000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Magna 1.1
+2015,225000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2017,570000,35000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 S
+2009,250000,50000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Era
+2017,495000,5000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 Asta Option
+2014,295000,38500,Petrol,Individual,Manual,First Owner,Hyundai,i10 Magna 1.1L
+2011,220000,25000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz
+2012,300000,40000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT
+2012,245000,14987,Petrol,Dealer,Manual,First Owner,Hyundai,EON Magna Plus
+2018,650000,30000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 S
+2018,550000,35000,Petrol,Individual,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz AT
+2016,275000,25000,Petrol,Individual,Manual,First Owner,Hyundai,EON D Lite
+2012,520000,35000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX
+2013,250000,40000,Petrol,Individual,Manual,Second Owner,Hyundai,EON Magna Plus
+2015,240000,110000,LPG,Individual,Manual,First Owner,Hyundai,EON LPG Magna Plus
+2015,160000,70000,Petrol,Individual,Manual,First Owner,Hyundai,EON 1.0 Kappa Magna Plus
+2012,185000,67000,CNG,Dealer,Manual,Second Owner,Hyundai,Accent Executive CNG
+2018,850000,12500,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 E Plus
+2018,450000,70000,Diesel,Individual,Manual,Second Owner,Hyundai,Xcent 1.2 CRDi S
+2011,800000,220000,Diesel,Individual,Manual,First Owner,Hyundai,Santa Fe 4X4
+2017,620000,65000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta Option
+2018,600000,2500,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Sportz BSIV
+2016,425000,42500,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Magna
+2017,640000,37000,Petrol,Individual,Manual,First Owner,Hyundai,i20 1.2 Asta Option
+2009,120000,70000,Petrol,Individual,Manual,Fourth & Above Owner,Hyundai,Santro Xing GLS
+2014,450000,80000,Petrol,Individual,Manual,Second Owner,Hyundai,Grand i10 Asta
+2005,114999,90000,Petrol,Dealer,Manual,Second Owner,Hyundai,Santro Xing XL eRLX Euro III
+2017,1035000,23000,Petrol,Dealer,Automatic,First Owner,Hyundai,Creta 1.6 SX Automatic
+2016,550000,45457,Petrol,Dealer,Manual,First Owner,Hyundai,Grand i10 Asta
+2017,1260000,39221,Diesel,Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2016,660000,48220,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Sportz 1.2
+2017,700000,11114,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Sportz 1.2
+2008,235000,60208,Diesel,Dealer,Manual,First Owner,Hyundai,Getz 1.5 CRDi GVS
+2017,900000,14700,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 VTVT S
+2009,150000,100000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XS
+2007,110000,90000,Petrol,Individual,Manual,First Owner,Hyundai,Getz GLX
+2012,310000,92686,Diesel,Dealer,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
+2003,100000,60000,Petrol,Individual,Manual,First Owner,Hyundai,Santro LS zipPlus
+2014,280000,55000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus Sports Edition
+2018,360000,6000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2014,320000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2014,225000,30000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2012,229999,45000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Era
+2008,145000,67000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL
+2015,500000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.4 VTVT
+2011,225000,30000,Petrol,Individual,Manual,First Owner,Hyundai,i10 Sportz
+2017,300000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.1 CRDi Base
+2016,680000,20000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2004,120000,120000,Diesel,Individual,Manual,Second Owner,Hyundai,Accent CRDi
+2014,320000,54350,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing GLS
+2019,500000,30000,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Asta
+2015,1025000,90000,Diesel,Individual,Manual,Second Owner,Hyundai,Creta 1.6 CRDi SX Option
+2018,350000,15000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2015,550000,87000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Asta 1.4 CRDi
+2015,850000,25000,Petrol,Individual,Manual,First Owner,Hyundai,Creta 1.6 VTVT S
+2016,650000,26000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2016,650000,26000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2014,280000,55000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus Sports Edition
+2018,360000,6000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2014,320000,80000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2009,245000,75000,Diesel,Dealer,Automatic,First Owner,Hyundai,Verna SX AT Diesel
+2018,300000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Magna Plus
+2017,350000,80000,Diesel,Individual,Manual,First Owner,Hyundai,Xcent 1.2 CRDi E
+2016,1249000,60000,Diesel,Individual,Manual,Third Owner,Hyundai,Creta 1.6 CRDi SX Plus
+2016,1151000,85000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2018,350000,20000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2019,525000,9400,Petrol,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 Kappa Magna BSIV
+2011,250000,28000,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2017,1050000,31000,Diesel,Dealer,Automatic,First Owner,Hyundai,Verna 1.6 CRDi AT SX
+2011,375000,72000,Petrol,Dealer,Manual,First Owner,Hyundai,i20 1.2 Asta
+2014,300000,37555,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Sportz 1.1L
+2009,140000,100000,Petrol,Individual,Manual,Third Owner,Hyundai,Santro Xing GLS
+2010,300000,130000,Diesel,Individual,Manual,Second Owner,Hyundai,Verna CRDi SX
+2016,535000,52600,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2017,550000,19890,Petrol,Dealer,Automatic,First Owner,Hyundai,Grand i10 1.2 Kappa Magna AT
+2016,535000,38365,Petrol,Dealer,Manual,First Owner,Hyundai,i20 1.2 Magna Executive
+2007,155000,65000,Petrol,Dealer,Manual,First Owner,Hyundai,Verna SX
+2007,123000,50000,Petrol,Individual,Manual,Second Owner,Hyundai,Verna i (Petrol)
+2006,80000,110000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing XO
+2018,650000,37000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 Active S Diesel
+2016,550000,23000,Petrol,Dealer,Manual,First Owner,Hyundai,i20 Active SX Petrol
+2012,240000,40000,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Magna
+2015,245000,32000,Petrol,Dealer,Manual,First Owner,Hyundai,EON Magna Plus
+2016,927999,90000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX
+2015,399000,55000,Diesel,Dealer,Manual,First Owner,Hyundai,Xcent 1.2 CRDi SX
+2008,150000,90000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XS
+2015,250000,25000,Petrol,Individual,Manual,First Owner,Hyundai,EON Era Plus
+2014,675000,61000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2007,212000,58000,Diesel,Dealer,Manual,Second Owner,Hyundai,Verna CRDi SX
+2010,140000,110000,CNG,Individual,Manual,First Owner,Hyundai,Accent Executive CNG
+2017,530000,64916,Petrol,Individual,Manual,First Owner,Hyundai,Verna 1.6 VTVT S
+2013,219000,53500,Petrol,Individual,Manual,Third Owner,Hyundai,EON Era Plus
+2015,850000,84000,Diesel,Dealer,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Plus
+2013,484999,65000,Diesel,Dealer,Manual,First Owner,Hyundai,Verna 1.6 SX
+2015,565000,46000,Petrol,Individual,Manual,First Owner,Hyundai,i20 Active 1.2 SX
+2013,170000,80000,Petrol,Individual,Manual,Third Owner,Hyundai,EON Era Plus
+2018,819999,40000,Diesel,Individual,Manual,First Owner,Hyundai,i20 Active 1.4 SX
+2019,819999,40000,Diesel,Individual,Manual,First Owner,Hyundai,Elite i20 Diesel Asta Option
+2017,780000,50000,Diesel,Individual,Manual,First Owner,Hyundai,i20 1.4 Asta Option
+2004,125000,70000,Petrol,Individual,Automatic,Second Owner,Hyundai,Santro Xing XG AT
+2018,465000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
+2017,490000,66000,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 CRDi Magna
+2013,290000,49000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL Plus
+2017,680000,44000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2018,1100000,25000,Diesel,Individual,Automatic,Second Owner,Hyundai,Verna CRDi 1.6 AT EX
+2018,465000,25000,Diesel,Individual,Manual,First Owner,Hyundai,Grand i10 1.2 CRDi Asta
+2017,490000,66000,Diesel,Dealer,Manual,First Owner,Hyundai,Grand i10 CRDi Magna
+2013,290000,49000,Petrol,Individual,Manual,First Owner,Hyundai,Santro Xing GL Plus
+2017,680000,44000,Diesel,Dealer,Manual,First Owner,Hyundai,i20 1.4 Sportz
+2018,1100000,25000,Diesel,Individual,Automatic,Second Owner,Hyundai,Verna CRDi 1.6 AT EX
+2010,250000,100000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Sportz 1.2
+2010,250000,110000,Petrol,Individual,Manual,Second Owner,Hyundai,i10 Sportz 1.2
+2006,145000,52000,Petrol,Individual,Manual,Second Owner,Hyundai,Santro Xing XS eRLX Euro III
+2006,145000,66000,Petrol,Individual,Automatic,Second Owner,Hyundai,Santro AT
+2005,80000,56580,Petrol,Dealer,Manual,First Owner,Hyundai,Santro GS
+2005,70000,68500,Petrol,Dealer,Manual,First Owner,Hyundai,Santro Xing XG
+2019,484999,5007,Petrol,Dealer,Automatic,First Owner,Hyundai,Santro Sportz AMT
+2010,190000,38000,Petrol,Dealer,Manual,First Owner,Hyundai,Verna 1.6 VTVT
+2011,235000,43100,Petrol,Dealer,Manual,First Owner,Hyundai,i10 Sportz 1.2
+2013,500000,120000,Diesel,Individual,Manual,First Owner,Hyundai,Verna 1.6 SX CRDi (O)
+2014,409999,80000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi (Diesel)
+2014,409999,80000,Diesel,Individual,Manual,Second Owner,Hyundai,i20 Magna 1.4 CRDi
+2016,865000,90000,Diesel,Individual,Manual,First Owner,Hyundai,Creta 1.6 CRDi SX Option

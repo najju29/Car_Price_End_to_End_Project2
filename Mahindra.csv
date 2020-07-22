@@ -1,0 +1,366 @@
+year,selling_price,km_driven,fuel,seller_type,transmission,owner,Car_Company,Model_Name
+2014,1050000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S10
+2009,411000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio LX
+1996,250000,35000,Diesel,Individual,Manual,Second Owner,Mahindra,Jeep CL 500 MDI
+2017,570000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S6 Plus
+2015,750000,70000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2013,325000,62200,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero 2011-2019 SLE
+2017,628000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2018,750000,87000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D4
+2012,600000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E4 BS III
+2014,555000,90000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio LX BSIV
+2012,195000,140000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C8
+2019,800000,15000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2009,229999,230000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo E4
+2017,1000000,40000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2019,1150000,15000,Petrol,Dealer,Manual,First Owner,Mahindra,XUV300 W8 Option
+2008,89999,213000,Diesel,Individual,Manual,First Owner,Mahindra,Renault Logan 1.5 DLS
+2017,1500000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S11 BSIV
+2010,160000,130000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E4
+2019,860000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2013,450000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D2 BSIV
+2011,430000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX 2WD BSIII
+2011,650000,70000,Diesel,Individual,Automatic,Second Owner,Mahindra,Scorpio VLS AT 2.2 mHAWK
+2011,350000,90000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX
+2020,1400000,25000,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W11 Option AWD
+2018,1300000,10000,Diesel,Individual,Manual,First Owner,Mahindra,Marazzo M8 8Str
+2016,585000,51000,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero SLX
+2015,430000,200000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2012,850000,212814,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2007,370000,100000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio 2.6 Turbo 9 Str
+2006,229999,200000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero SLX
+2018,1100000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S7 140 BSIV
+2014,500000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio SLE BSIV
+2012,550000,80000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2012,600000,200000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2006,220000,220000,Petrol,Individual,Manual,Second Owner,Mahindra,Scorpio REV 116
+2010,400000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero SLX
+2018,1600000,35000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 W11 AT BSIV
+2017,500000,160000,Diesel,Individual,Manual,First Owner,Mahindra,Supro VX 8 Str
+2017,409999,40000,Diesel,Individual,Manual,First Owner,Mahindra,KUV 100 D75 K2
+2011,170000,70000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero SLX
+2013,500000,72104,Diesel,Dealer,Manual,Second Owner,Mahindra,XUV500 W6 2WD
+2018,760000,50000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T4 Plus
+2019,1850000,5000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 W11 Option AT AWD
+2007,225000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero DI DX 7 Seater
+2013,900000,85036,Diesel,Dealer,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2009,225000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D2
+2016,509999,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S4
+2012,565000,72000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio VLX 2WD AIRBAG SE BSIV
+2016,900000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S6 Plus
+2012,150000,172000,Diesel,Individual,Manual,Second Owner,Mahindra,Verito 1.5 D4 BSIV
+2011,425000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 2.6 CRDe SLE
+2008,145000,25000,Petrol,Individual,Manual,First Owner,Mahindra,Renault Logan 1.4 GLX Petrol
+2019,900000,15000,Diesel,Individual,Manual,First Owner,Mahindra,Thar CRDe ABS
+2011,311000,140000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero SLX
+2009,550000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio SLE BSIII
+2015,825000,90000,Diesel,Individual,Manual,Third Owner,Mahindra,XUV500 W6 2WD
+2017,475000,45087,Diesel,Dealer,Manual,First Owner,Mahindra,KUV 100 mFALCON D75 K8
+2013,900000,63654,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
+2015,890000,52000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio S6 Plus 7 Seater
+2013,550000,78413,Diesel,Dealer,Manual,Second Owner,Mahindra,Bolero 2011-2019 SLX 2WD BSIII
+2018,790000,40890,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2013,250000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Verito Vibe 1.5 dCi D4
+2012,400000,150000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2015,600000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S4 4WD
+2013,300000,25000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C8
+2013,750000,41988,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2017,400000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero Power Plus SLX
+2012,711000,53600,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2016,610000,15000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 1.99 S10
+2018,450000,5000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 G80 K2
+2018,1300000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S11 BSIV
+2018,950000,15000,Diesel,Individual,Manual,Second Owner,Mahindra,Marazzo M4
+2016,350000,90000,Diesel,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON D75 K8 AW
+2013,500000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2015,227000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Verito 1.5 D2 BSIV
+2013,400000,107000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero 2011-2019 SLX
+2012,600000,110000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Scorpio M2DI
+2008,80000,90000,Petrol,Individual,Manual,First Owner,Mahindra,Renault Logan 1.4 GLX Petrol
+2018,1050000,35000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W5 BSIV
+2019,1000000,10000,Diesel,Individual,Manual,First Owner,Mahindra,XUV300 W8 Option Diesel BSIV
+2018,950000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Thar CRDe
+2010,385000,110000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio LX
+2012,550000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio SLE BSIV
+2018,1300000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S11 BSIV
+2012,650000,71042,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
+2015,300000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Verito 1.5 D4 BSIV
+2010,250000,190000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Bolero SLX 2WD
+2007,95000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Jeep MM 540
+2014,725000,135000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 1.99 S10
+2015,320000,50000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2016,425000,25000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K2
+2006,575000,1001,Diesel,Dealer,Manual,First Owner,Mahindra,Jeep CJ 500 DI
+2013,250000,200000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D4 BSIV
+2016,675000,161327,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S2 7 Seater
+2007,250000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero DI
+2011,525000,70000,Diesel,Individual,Automatic,First Owner,Mahindra,Scorpio VLS AT 2.2 mHAWK
+2010,380000,195000,Diesel,Individual,Automatic,Second Owner,Mahindra,Scorpio VLS AT 2.2 mHAWK
+2016,600000,56000,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero B6
+2014,620000,80000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio SLE BS IV
+2018,550000,44000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2017,750000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S2 7 Seater
+2016,500000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus LX
+2016,430000,20000,Diesel,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON D75 K6
+2017,750000,80000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D4
+2011,390000,150000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Bolero SLX 2WD BSIII
+2016,630000,50000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T4
+2016,850000,40000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo H4 ABS
+2013,285000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C6
+2018,695000,70000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T10
+2019,2700000,5000,Diesel,Individual,Automatic,First Owner,Mahindra,Alturas G4 4X2 AT BSIV
+2015,640000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2014,250000,1,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C6
+2007,225000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero DI DX 7 Seater
+2008,350000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio M2DI
+2015,450000,40000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2014,600000,13270,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio EX
+2016,700000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Thar DI 4X4 PS
+2018,630000,40000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLE
+2013,350000,42000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E4 ABS BS IV
+2010,350000,90000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLE
+2000,155000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Jeep MM 775 XDB
+2010,400000,185000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio SLE BSIII
+2004,170000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 2.6 SLX Turbo 7 Seater
+2004,225000,223660,Diesel,Individual,Automatic,Third Owner,Mahindra,Scorpio VLX AT 2WD BSIII
+2006,200000,73756,Diesel,Individual,Manual,First Owner,Mahindra,Bolero DI
+2012,580000,70000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2012,600000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 4WD
+2015,750000,53000,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
+2008,89999,213000,Diesel,Individual,Manual,First Owner,Mahindra,Renault Logan 1.5 DLS
+2017,380000,71000,Diesel,Dealer,Manual,First Owner,Mahindra,KUV 100 D75 K6 Plus
+2010,320000,90000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo D4
+2014,800000,156000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 4WD
+2020,1400000,25000,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W11 Option AWD
+2016,585000,51000,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero SLX
+2013,220000,100000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Quanto C4
+2012,400000,99000,Diesel,Dealer,Manual,First Owner,Mahindra,Xylo E4
+2015,450000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D2 BS IV
+2015,500000,110000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus Non AC BSIV PS
+2012,550000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio VLX 2WD AIRBAG BSIV
+1999,170000,2020,Diesel,Individual,Manual,Second Owner,Mahindra,Jeep Classic
+2007,210000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 Turbo 7 Str
+2018,1380000,25000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S11 BSIV
+2016,1000000,40000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 1.99 mHawk
+2016,525000,110000,Diesel,Individual,Manual,First Owner,Mahindra,NuvoSport N8
+2016,730000,60000,Diesel,Individual,Automatic,Second Owner,Mahindra,TUV 300 T8 AMT
+2017,750000,29000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus ZLX
+2018,1100000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S7 140 BSIV
+2016,430000,20000,Diesel,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON D75 K6
+1997,150000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,Jeep CL 500 MDI
+2018,850000,30000,Diesel,Individual,Manual,Second Owner,Mahindra,TUV 300 Plus P4
+2013,580000,25000,Diesel,Individual,Manual,Third Owner,Mahindra,Thar 4X4
+2019,800000,24000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero 2011-2019 SLX
+2013,300000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C6
+2009,420000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio SLE BSIV
+2016,900000,47000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2016,470000,31367,Diesel,Dealer,Manual,First Owner,Mahindra,KUV 100 D75 K4 Plus 5Str
+2014,420000,70000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio LX
+2015,850000,55000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2014,350000,170000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D2 Maxx
+2015,830000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S2 9 Seater
+2009,409999,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio VLS 2.2 mHawk
+2019,850000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2012,650000,76290,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 4WD
+2016,969999,70000,Diesel,Individual,Automatic,Second Owner,Mahindra,XUV500 AT W10 AWD
+2016,1250000,35000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W10 2WD
+2013,615000,45766,Diesel,Individual,Manual,Second Owner,Mahindra,Thar 4X4
+2004,110000,120000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Bolero DI
+2014,700000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio S4 4WD
+2012,700000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,XUV500 W8 4WD
+2012,260000,89000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C6
+2015,630000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S10 7 Seater
+2017,800000,26000,Diesel,Individual,Manual,Second Owner,Mahindra,Thar CRDe
+2006,300000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 SLX CRDe
+2018,515000,5000,Diesel,Individual,Manual,First Owner,Mahindra,Thar DI 4X2
+2017,800000,26000,Diesel,Individual,Manual,Second Owner,Mahindra,Thar CRDe
+2006,300000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 SLX CRDe
+2007,185000,230000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLE BSIII
+2010,480000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
+2018,320000,30000,Petrol,Individual,Manual,Second Owner,Mahindra,KUV 100 G80 K2
+2009,300000,55000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero DI DX 8 Seater
+2004,315000,110000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero DI
+2016,370000,60000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K8 5str
+2014,550000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
+2012,349000,150000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio LX BSIV
+2008,155000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero SLX
+2008,155000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero SLX
+2015,1250000,60000,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W10 FWD
+2014,782000,58000,Diesel,Dealer,Manual,Second Owner,Mahindra,Scorpio VLX 2WD BSIV
+2014,780000,58000,Diesel,Dealer,Manual,Second Owner,Mahindra,Scorpio VLX 2.2 mHawk Airbag BSIV
+2018,1150000,58000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W7
+2007,190000,160000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio SLX 2.6 Turbo 8 Str
+2013,365000,82082,Diesel,Dealer,Manual,First Owner,Mahindra,Quanto C8
+2013,400000,107000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero 2011-2019 SLX
+2015,434999,100000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo D2 BS IV
+2011,484999,99000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio SLE BSIV
+2014,625000,68000,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2018,700000,80000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2013,350000,151624,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D4 BSIV
+2014,550000,82000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2010,350000,186000,Diesel,Individual,Automatic,Second Owner,Mahindra,Scorpio VLS AT 2.2 mHAWK
+2009,360000,170000,Diesel,Individual,Automatic,Third Owner,Mahindra,Scorpio VLX 2WD ABS AT BSIII
+2007,300000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX 2WD
+2015,740000,45000,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W8 FWD
+2019,900000,20000,Diesel,Individual,Manual,First Owner,Mahindra,Marazzo M2 8Str
+2016,425000,25000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K2
+2015,1200000,75000,Diesel,Dealer,Manual,Second Owner,Mahindra,XUV500 W10 2WD
+2013,500000,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio M2DI
+2017,800000,75000,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero B4
+2005,175000,250000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe
+2011,350000,140000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D2
+2017,650000,80000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T8
+2014,700000,130000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio VLX 2WD BSIV
+2009,200000,30000,Petrol,Individual,Manual,Second Owner,Mahindra,Renault Logan 1.6 Petrol GLSX
+2018,1300000,10000,Diesel,Individual,Manual,First Owner,Mahindra,Marazzo M8 8Str
+2013,750000,41988,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2012,711000,53600,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2016,1044999,65000,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W10 1.99 mHawk
+2012,550000,60236,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio EX
+2009,290000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo E8
+2017,800000,25000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 mHAWK100 T8
+2018,1400000,30000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 AT W10 FWD
+2016,420000,21000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K2 Plus
+2019,860000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2016,900000,47000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2016,470000,31367,Diesel,Dealer,Manual,First Owner,Mahindra,KUV 100 D75 K4 Plus 5Str
+2015,750000,70000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2013,325000,62200,Diesel,Dealer,Manual,First Owner,Mahindra,Bolero 2011-2019 SLE
+2014,550000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio SLE BSIV
+2015,500000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D4
+2017,600000,53000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K8 5str
+2014,500000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
+2018,1400000,20000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W10 2WD
+2013,650000,102989,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2002,150000,50000,Diesel,Individual,Manual,Third Owner,Mahindra,Jeep MM 550 XDB
+2010,325000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo E4 8S
+2012,650000,102000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2009,300000,178000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLE
+2017,450000,30000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K2
+2020,1200000,11000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S5 BSIV
+2018,800000,20000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T6 Plus
+2017,1230000,70000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 AT W8 FWD
+2013,220000,110000,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C6
+2014,600000,151000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W6 2WD
+2015,600000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S4 4WD
+2015,150000,55000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 1.99 S10
+2018,1450000,20000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W10 2WD
+2018,620000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2011,275000,160000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E8 ABS Airbag BSIV
+2013,300000,70000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe SLE
+2005,229999,221000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio 2.6 CRDe
+2018,900000,25000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2007,300000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX
+2017,1000000,60000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 1.99 S10
+2017,400000,120000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T6 Plus
+2016,400000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C4
+2008,300000,270000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio VLS 2.2 mHawk
+1996,200000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Jeep MM 540
+2017,800000,60000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 mHAWK100 T8
+2017,675000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus SLX
+2013,349000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C6
+2004,229999,168000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Bolero DI DX 8 Seater
+2013,290000,150000,Diesel,Individual,Manual,Fourth & Above Owner,Mahindra,Quanto C4
+2007,125000,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Renault Logan 1.5 DLE Diesel
+2018,707000,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio BSIV
+2016,1025000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S10
+2013,300000,25000,Diesel,Individual,Manual,Second Owner,Mahindra,Quanto C8
+2013,750000,41988,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2017,400000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero Power Plus SLX
+2012,711000,53600,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2005,120000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio 2.6 SLX Turbo 7 Seater
+2012,525000,145000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio SLE BSIV
+2018,800000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2018,1150000,20000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W7 BSIV
+2001,80000,100000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero DI DX 7 Seater
+2005,120000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio 2.6 SLX Turbo 7 Seater
+2018,1500000,50000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W10 2WD
+2015,900000,110000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2010,420000,100000,Diesel,Individual,Manual,Third Owner,Mahindra,Scorpio VLX 2WD BSIV
+2016,690000,75000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T8
+2014,250000,30000,Diesel,Individual,Manual,First Owner,Mahindra,Verito 1.5 D2 BSIII
+2005,300000,90000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero DI
+2017,1150000,65500,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W10 1.99 mHawk
+2016,370000,60000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 mFALCON G80 K8 5str
+2015,210000,210000,Diesel,Individual,Manual,First Owner,Mahindra,Ingenio CRDe
+2013,500000,150000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio M2DI
+2010,200000,240000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo Celebration Edition BSIV
+2016,1290000,5000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2011,229999,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo D2 BS IV
+2010,380000,72000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo E8
+2018,1500000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S11 BSIV
+2014,600000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W6 2WD
+2011,175000,175000,Diesel,Individual,Manual,First Owner,Mahindra,Verito 1.5 D2 BSIII
+2017,1350000,15000,Diesel,Individual,Automatic,Second Owner,Mahindra,XUV500 AT W10 AWD
+2013,660000,69000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2006,180000,222435,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe
+2019,1000000,10000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio BSIV
+2013,450000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio LX
+2012,625000,126000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 4WD
+2010,300000,100000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero DI
+2014,600000,238000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio VLX 2WD AIRBAG BSIV
+2011,450000,110000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero SLX 4WD BSIII
+2019,1350000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S9 BSIV
+2014,600000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio VLX 2WD AIRBAG BSIV
+2009,275000,155000,Diesel,Individual,Automatic,Third Owner,Mahindra,Scorpio VLX 2WD AT BSIV
+2010,300000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D2
+2016,580000,95000,Diesel,Individual,Manual,Second Owner,Mahindra,Bolero Power Plus SLX
+2013,220000,110000,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C6
+2012,290000,80000,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C8
+2012,300000,295000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo E9
+2013,850000,85710,Diesel,Dealer,Manual,First Owner,Mahindra,XUV500 W6 2WD
+2019,599000,15000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo H4
+2015,540000,110000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T6 Plus
+2017,750000,29000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus ZLX
+2013,550000,222252,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W8 2WD
+2014,800000,90000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S10 7 Seater
+2014,800000,15000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio LX
+2011,300000,110000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero DI
+2014,750000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2011,400000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Thar 4X2
+2019,1400000,10000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W7 BSIV
+2014,285000,89126,Diesel,Individual,Manual,First Owner,Mahindra,Quanto C6
+2015,750000,70000,Diesel,Individual,Automatic,Second Owner,Mahindra,XUV500 AT W8 FWD
+2017,650000,60000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T4 Plus
+2017,600000,40000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2012,620000,80000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 4WD
+2018,795000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus ZLX
+2014,350000,145000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D4
+2017,600000,99700,Diesel,Individual,Manual,First Owner,Mahindra,Xylo D4
+2017,585000,85441,Diesel,Dealer,Manual,First Owner,Mahindra,Xylo D4
+2015,380000,64541,Diesel,Dealer,Manual,First Owner,Mahindra,Verito 1.5 D4 BSIV
+2015,430000,200000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2017,1300000,40000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 AT W6 2WD
+2007,150000,90000,Diesel,Individual,Manual,Third Owner,Mahindra,Renault Logan 1.5 DLX Diesel
+2016,700000,40000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T8
+2018,1100000,70000,Diesel,Individual,Manual,First Owner,Mahindra,Xylo H8 ABS with Airbags
+2009,400000,68350,Diesel,Dealer,Manual,First Owner,Mahindra,Xylo E6
+2011,150000,280000,Diesel,Individual,Manual,First Owner,Mahindra,Verito 1.5 D2 BSIII
+2015,1000000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2017,800000,60000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 mHAWK100 T8
+2018,784000,40000,Diesel,Individual,Manual,First Owner,Mahindra,TUV 300 T10 Dual Tone
+2018,1400000,50000,Diesel,Individual,Automatic,First Owner,Mahindra,XUV500 W7 AT BSIV
+2014,600000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Thar CRDe AC
+2013,450000,110000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio EX
+2008,325000,120000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 Turbo 7 Str
+2015,280000,40000,Diesel,Individual,Manual,First Owner,Mahindra,Verito Vibe 1.5 dCi D6
+2016,1250000,23670,Diesel,Trustmark Dealer,Manual,First Owner,Mahindra,XUV500 W10 1.99 mHawk
+2016,509999,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S4
+2015,295000,90000,Diesel,Individual,Manual,Third Owner,Mahindra,Bolero Power Plus Plus AC BSIV PS
+2011,330000,100000,Diesel,Individual,Manual,Second Owner,Mahindra,Xylo E4
+2006,125000,50000,Diesel,Individual,Manual,Second Owner,Mahindra,Scorpio 2.6 CRDe
+2016,509999,60000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio 1.99 S4
+2012,565000,72000,Diesel,Dealer,Manual,First Owner,Mahindra,Scorpio VLX 2WD AIRBAG SE BSIV
+2008,295000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio VLX 2WD BSIII
+2015,550000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Bolero 2011-2019 SLX
+2014,500000,35000,Diesel,Individual,Manual,First Owner,Mahindra,Thar 4X2
+2015,1225000,70000,Diesel,Individual,Manual,First Owner,Mahindra,XUV500 W10 AWD
+2015,350000,120000,Diesel,Individual,Manual,Third Owner,Mahindra,Verito 1.5 D4 BSIV
+2018,509999,15000,Petrol,Individual,Manual,First Owner,Mahindra,KUV 100 G80 K4 Plus
+2014,650000,218000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2014,650000,218000,Diesel,Individual,Manual,Second Owner,Mahindra,XUV500 W8 2WD
+2015,740000,45000,Diesel,Dealer,Automatic,First Owner,Mahindra,XUV500 AT W8 FWD
+2015,630000,50000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S10 7 Seater
+2019,599000,15000,Diesel,Individual,Manual,Third Owner,Mahindra,Xylo H4
+2012,200000,112198,Diesel,Individual,Manual,Second Owner,Mahindra,Verito 1.5 D6 BSIII
+2015,750000,120000,Diesel,Individual,Manual,First Owner,Mahindra,Scorpio S2 7 Seater
